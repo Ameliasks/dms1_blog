@@ -7,7 +7,7 @@ allow_math: true
 ---
 
 # :detective: Studio 1 Scavenger Hunt 
-My Scavenging Team™️ consists of 5 members: Jacqueline, Jill, Lachy, Ruby, and myself. 
+My Scavenging Team™️ consists of 5 members: Jacqueline, Jill, Lachy, Ruby, and me. 
 
 ## 1 - An explosive cup of coffee.
 
