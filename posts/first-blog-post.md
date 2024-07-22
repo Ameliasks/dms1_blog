@@ -11,7 +11,7 @@ My Scavenging Team™️ consists of 5 members: Jacqueline, Jill, Lachy, Ruby, a
 
 ## 1 - An explosive cup of coffee.
 
-![photo 1](photos/1.jpg)
+![photo 1](Ameliasks/dms1_blog/photos/1.jpg)
 
 ## 2 - A book containing Digital Media wisdom, found amongst many.
 ## 3 - A wide net strung above, bulging under the weight of its flying paper cargo.
