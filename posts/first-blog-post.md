@@ -1,7 +1,7 @@
 ---
-title: Welcome To DMS1 2024 SEM2
-published_at: 2022-11-04
-snippet: An example of a blog post.
+title: Digital Media Studio 1 
+published_at: 2024-07-24
+snippet: Studio 1 Scavenger Hunt
 disable_html_sanitization: true
 allow_math: true
 ---
