@@ -1,6 +1,6 @@
 ---
 title: Digital Media Studio 1 
-published_at: 2024-07-24
+published_at: 2024-07-22
 snippet: Studio 1 Scavenger Hunt
 disable_html_sanitization: true
 allow_math: true
@@ -12,7 +12,8 @@ allow_math: true
 
 ^ images are written like this: `![description](file_path/static/logo.svg)`
 
-## This is h2
+## 1 - An explosive cup of coffee.
+## 2 - A book containing Digital Media wisdom, found amongst many.
 
 *This is italic.*[^1]
 
