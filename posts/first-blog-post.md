@@ -7,20 +7,23 @@ allow_math: true
 ---
 
 # Studio 1 Scavenger Hunt
+My Scavenging Team™️ consiste of 5 members: Jacqueline, Jill, Lachy, Ruby, and myself. 
+## 1 - An explosive cup of coffee.
+## 2 - A book containing Digital Media wisdom, found amongst many.
+## 3 - A wide net strung above, bulging under the weight of its flying paper cargo.
+## 4 - A curtain of roots, delivered by a winged visitor.
+## 5 - A door for the condemned.
+## 6 - A study space fit for a Sith Lord.
+## 7 - The disembodied hands of a great ape.
+## 9 - A wide machine, dispensing beverages from a far away land.
+## The Unsolved - #8 and #10
+Completely clueless and out of time, we unfortunately returned to the studio without deciphering 2 of the clues: a basement-dwelling Black Box, bigger than you might think and a golden globe atop a tower of eights. Despite that, I enjoyed the opportunity this activity gave me to get to know some of my classmates on my first day of university.
+
 
 ![a drippy lemon](logo.svg)
 
 ^ images are written like this: `![description](file_path/static/logo.svg)`
 
-## 1 - An explosive cup of coffee.
-hello
-## 2 - A book containing Digital Media wisdom, found amongst many.
-## 3 - A wide net strung above, bulging under the weight of its flying paper cargo.
-## 4 - A door for the condemned.
-## 5 - A study space fit for a Sith Lord.
-## 6 - The disembodied hands of a great ape.
-## 9 - A wide machine, dispensing beverages from a far away land.
-## The Unsolved #6, #8 and #10
 *This is italic.*[^1]
 
 [^1]: This is a footnote, *which can also be italic*.
