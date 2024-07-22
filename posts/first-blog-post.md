@@ -14,12 +14,32 @@ My Scavenging Team™️ consists of 5 members: Jacqueline, Jill, Lachy, Ruby, a
 ![photo 1](photos/1.jpg)
 
 ## 2 - A book containing Digital Media wisdom, found amongst many.
+
+![photo 1](photos/2.jpg)
+
 ## 3 - A wide net strung above, bulging under the weight of its flying paper cargo.
+
+![photo 1](photos/3.jpg)
+
 ## 4 - A curtain of roots, delivered by a winged visitor.
+
+![photo 1](photos/4.jpg)
+
 ## 5 - A door for the condemned.
+
+![photo 1](photos/5.jpg)
+
 ## 6 - A study space fit for a Sith Lord.
+
+![photo 1](photos/6.jpg)
+
 ## 7 - The disembodied hands of a great ape.
+
+![photo 1](photos/7.jpg)
 ## 9 - A wide machine, dispensing beverages from a far away land.
+
+![photo 1](photos/9.jpg)
+
 ## The Unsolved - #8 and #10
 
 Completely clueless and out of time, we unfortunately returned to the studio without deciphering 2 of the clues: a basement-dwelling Black Box, bigger than you might think and a golden globe atop a tower of eights. Despite that, I enjoyed the opportunity this activity gave me to get to know some of my classmates on my first day of university.
