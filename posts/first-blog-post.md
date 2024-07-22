@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# Welcome To DMS1 2024 SEM2
+# Studio 1 Scavenger Hunt
 
 ![a drippy lemon](logo.svg)
 
