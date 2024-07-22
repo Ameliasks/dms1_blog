@@ -10,7 +10,7 @@ allow_math: true
 
 ![a drippy lemon](logo.svg)
 
-^ images are written like this: `![description](file_path/file_name.png)`
+^ images are written like this: `![description](file_path/static/logo.svg)`
 
 ## This is h2
 
