@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# This is h1
+# Welcome To DMS1 2024 SEM2
 
 ![a drippy lemon](logo.svg)
 
