@@ -13,12 +13,14 @@ allow_math: true
 ^ images are written like this: `![description](file_path/static/logo.svg)`
 
 ## 1 - An explosive cup of coffee.
+hello
 ## 2 - A book containing Digital Media wisdom, found amongst many.
 ## 3 - A wide net strung above, bulging under the weight of its flying paper cargo.
 ## 4 - A door for the condemned.
 ## 5 - A study space fit for a Sith Lord.
 ## 6 - The disembodied hands of a great ape.
-## 8 - A wide machine, dispensing beverages from a far away land.
+## 9 - A wide machine, dispensing beverages from a far away land.
+## The Unsolved #6, #8 and #10
 *This is italic.*[^1]
 
 [^1]: This is a footnote, *which can also be italic*.
