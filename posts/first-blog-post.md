@@ -9,6 +9,7 @@ allow_math: true
 # Studio 1 Scavenger Hunt
 My Scavenging Team™️ consiste of 5 members: Jacqueline, Jill, Lachy, Ruby, and myself. 
 ## 1 - An explosive cup of coffee.
+![An explosive cup of coffee.](1.jpg)
 ## 2 - A book containing Digital Media wisdom, found amongst many.
 ## 3 - A wide net strung above, bulging under the weight of its flying paper cargo.
 ## 4 - A curtain of roots, delivered by a winged visitor.
