@@ -35,26 +35,40 @@ While exploring the library for the previous item, Ruby and I passed the net of 
 ![photo 1](photos/4.jpg)
 *Us on Bowen Street with the installation*
 
-When I saw the word 'roots' I immediately thought of the buildings 2,4 and 6 on Bowen Street, but could not draw the association between any of them and a 'winged visitor*. Upon seeing the installation at the front of building 8, Lachy mentioned that the way the roots covered the open staircase behind it makes it appear as a curtain of sorts. Although the team had lingering doubts, at this point we were almost out of time and thought this was our best shot at the riddle.
+When I saw the word 'roots' I immediately thought of the buildings 2,4 and 6 on Bowen Street, but could not draw the association between any of them and a 'winged visitor*. Upon seeing the installation at the front of building 8, Lachy mentioned that the way the roots covered the open staircase behind it makes it appear like a curtain of sorts. Although the team had lingering doubts, at this point we were almost out of time and thought this was our best shot at the riddle and took the photo here.
 
 ## 5 - A door for the condemned.
 
 ![photo 1](photos/5.jpg)
+*Us in front of the Old Melbourne Gaol*
+
+While we were walking about, trying to figure out what the riddle could mean, Lachy had managed to search up the at building 11 (Old Melbourne Goal) online, and its history of holding prisoners long ago. We immediately walked over to snap a photo with the doorway.
 
 ## 6 - A study space fit for a Sith Lord.
 
 ![photo 1](photos/6.jpg)
+*Us in front of the Swanston Library study space*
+
+While tackling the second riddle, Ruby brought up that she had heard the study space at Swanston Library was known by some people as the 'Star Wars Pods'. This photo was taken from a distance as we were a little wary of disturbing the people studying there.
 
 ## 7 - The disembodied hands of a great ape.
 
 ![photo 1](photos/7.jpg)
+*Us with the ape hands*
+
+When I saw 'ape hands' on the checklist, it immediately rang a bell as I remembered passing it during orietation. I brought the rest of the team over to building 4 where it was located to take the photo.
+
 ## 9 - A wide machine, dispensing beverages from a far away land.
 
 ![photo 1](photos/9.jpg)
+*Us with the Flying Turtle vending machine in Swanston Library*
+
+This one was an accidental find while we were exiting the library after solving the previous riddles at the library. We thought that this unique beverage vending machine vaguely matched the description of the riddle and took a photo with the machine.
+
 
 ## The Unsolved - #8 and #10
 
-Completely clueless and out of time, we unfortunately returned to the studio without deciphering 2 of the clues: a basement-dwelling Black Box, bigger than you might think and a golden globe atop a tower of eights. Despite that, I enjoyed the opportunity this activity gave me to get to know some of my classmates on my first day of university.
+Clueless and out of time, we unfortunately returned to the studio without deciphering 2 of the riddles: a basement-dwelling Black Box, bigger than you might think and a golden globe atop a tower of eights. Despite that and the hunch we may have gotten a couple of answers wrong, I enjoyed the opportunity this activity gave me to get to know some of my classmates on my first day of university.
 
 
 ![a drippy lemon](logo.svg)
