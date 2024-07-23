@@ -19,12 +19,22 @@ After we made our quick introductions, we hurried out with the other teams, eage
 ## 2 - A book containing Digital Media wisdom, found amongst many.
 
 ![photo 2](photos/2.jpg)
+*Us at the Swanston Library with 'The Poetics of Digital Media*
+
+Perhaps the most time-consuming of all our attempts, this item led the team to the Swanston Library. Completely new to and unfamiliar with the library, we were slightly overwhelmed with where to start. Jacqueline and Jill made the astute decision to search through the library directory for books with titles including 'digital media'. We realised then that we were on the wrong floor and and went downstairs to continue the search. Althought it took us a considerable amount of time to scour through the shelves, we eventually found one of the books we saw on the directory (with a little help from the librarian), as pictured above, called 'The Poetics of Digital Media'.
 
 ## 3 - A wide net strung above, bulging under the weight of its flying paper cargo.
+*Us at the Swanston Library with the net of paper cranes*
+
+While exploring the library for the previous item, Ruby and I passed the net of paper cranes by chance and brought the rest of the team in for the photo. 
 
 ![photo 1](photos/3.jpg)
 
 ## 4 - A curtain of roots, delivered by a winged visitor.
+*Us on Bowen Street with the installation*
+
+When I saw the word 'roots' I immediately thought of the buildings 2,4 and 6 on Bowen Street, but could not draw the association between any of them and a 'winged visitor*. Upon seeing the installation at the front of building 8, Lachy mentioned that the way the roots covered the open staircase behind it makes it appear as a curtain of sorts. 
+
 
 ![photo 1](photos/4.jpg)
 
