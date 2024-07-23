@@ -12,11 +12,13 @@ My Scavenging Team™️ consists of 5 members: Jacqueline, Jill, Lachy, Ruby, a
 ## 1 - An explosive cup of coffee.
 
 ![photo 1](photos/1.jpg)
-*pictured from left to right: Ruby, Lachy, Jacqueline, Jill and me*
+*Pictured from left to right: Ruby, Lachy, Jacqueline, Jill and me in front of Bowen St. Cafe*
+
+After we made our quick introductions, we hurried out with the other teams, eager to begin the hunt. We decided to start working on the checklist from the first item : 'An explosive cup of coffee.' Although we could not quite decrypt what 'explosive' meant, I suggested going to the closest cafe to our starting point, Bowen St. Cafe. Agreeing to make do with this location as the temporary answer to possibly revisit later, we took our first selfie here.
 
 ## 2 - A book containing Digital Media wisdom, found amongst many.
 
-![photo 1](photos/2.jpg)
+![photo 2](photos/2.jpg)
 
 ## 3 - A wide net strung above, bulging under the weight of its flying paper cargo.
 
