@@ -72,7 +72,7 @@ This one was an accidental find while we were exiting the library after solving 
 Clueless and out of time, we unfortunately returned to the studio without deciphering 2 of the riddles: a basement-dwelling Black Box, bigger than you might think and a golden globe atop a tower of eights. Despite that and the hunch we may have gotten a couple of answers wrong, I still enjoyed the opportunity this activity gave me to get to know some of my classmates on my first day of university.
 
 
-# :computer: Week 1 Session 2 Homework - Editing Experiment
+# :page_with_curl: Week 1 Session 2 Homework - Editing Experiment
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/990489257?h=e8abb1979b" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
