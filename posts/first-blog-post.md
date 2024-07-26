@@ -72,6 +72,15 @@ This one was an accidental find while we were exiting the library after solving 
 Clueless and out of time, we unfortunately returned to the studio without deciphering 2 of the riddles: a basement-dwelling Black Box, bigger than you might think and a golden globe atop a tower of eights. Despite that and the hunch we may have gotten a couple of answers wrong, I still enjoyed the opportunity this activity gave me to get to know some of my classmates on my first day of university.
 
 
+# :computer: Week 1 Session 2 Homework - Editing Experiment
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/990489257?h=e8abb1979b" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
+## Notes
+
+As someone with experience with Premiere Pro and editing, but has not been actively using it for some time, this week's lesson and the tutorials on LinkedIn Learning have definately helped me to re-familliarise myself with the software and its tools. One of my greatest takeaways was the shortcut keys for expediting the editing process, as I was not aware that there were so many of them. I also learnt the techniques of top and tail editing, roll trimming and subclipping from the online tutorials. In the simple clip embedded above, I tried to test out and experiment with some of the new shortcut keys, to montage together 3 separate clips. The first clip and audio is courtesy to Arielle, and the other 2 clips were filmed by me.
+---
+
 ![a drippy lemon](logo.svg)
 
 ^ images are written like this: `![description](file_path/static/logo.svg)`
@@ -98,7 +107,7 @@ Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for
 
 ## Embedding video:
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/990489257?h=e8abb1979b" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 
 <script type="module">
 
