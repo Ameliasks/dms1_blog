@@ -74,15 +74,8 @@ Clueless and out of time, we unfortunately returned to the studio without deciph
 
 # :page_with_curl: Week 1 Session 2 Homework - Editing Experiment
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/990489257?h=e8abb1979b" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/990489257?h=e8abb1979b" width="1920" height="1080" frameborder="0"    allowfullscreen></iframe>
 
-<script type="module">
-
-    const iframe  = document.getElementById (`falling_falling`)
-    iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 9 / 16 + 42
-
-</script>
 
 ## Notes
 
