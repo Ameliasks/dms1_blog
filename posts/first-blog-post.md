@@ -76,6 +76,14 @@ Clueless and out of time, we unfortunately returned to the studio without deciph
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/990489257?h=e8abb1979b" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
+<script type="module">
+
+    const iframe  = document.getElementById (`falling_falling`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16 + 42
+
+</script>
+
 ## Notes
 
 As someone with experience with Premiere Pro and editing, but has not been actively using it for some time, this week's lesson and the tutorials on LinkedIn Learning have definately helped me to re-familliarise myself with the software and its tools. One of my greatest takeaways was the shortcut keys for expediting the editing process, as I was not aware that there were so many of them. I also learnt the techniques of top and tail editing, roll trimming and subclipping from the online tutorials. In the simple clip embedded above, I tried to test out and experiment with some of the new shortcut keys, to montage together 3 separate clips. The first clip and audio is courtesy to Arielle, and the other 2 clips were filmed by me. I will definately keep in mind all these tools and techniques while working on Assignment 1.
