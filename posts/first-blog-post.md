@@ -74,7 +74,7 @@ Clueless and out of time, we unfortunately returned to the studio without deciph
 
 # :page_with_curl: Week 1 Session 2 Homework - Editing Experiment
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/990489257?h=e8abb1979b" width="1920" height="1080" frameborder="0"    allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/990489257?h=e8abb1979b" width="960" height="540" frameborder="0"    allowfullscreen></iframe>
 
 
 ## Notes
