@@ -99,7 +99,7 @@ cont.
 
 ![photo 1](photos/12.jpg)
 
-*Scene taken from Derry Girls(2018-2022), Netflix. Link: https://youtu.be/s_kIb-_wykE?si=MuS1dBUK8ZhIQM2v*
+*Storyboard done roughly on my journal. Scene taken from Derry Girls(2018-2022), Netflix. Link: https://youtu.be/s_kIb-_wykE?si=MuS1dBUK8ZhIQM2v*
 
 
 # :page_with_curl: Week 2 Session 2 Homework - Audio
