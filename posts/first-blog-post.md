@@ -95,7 +95,7 @@ In shot 13 of the storyboard, to connect the previous frame of the 2 seagulls in
 
 cont.
 
-## Classroom Exercise - Stroyboard From a Random Film or TV Show
+## Classroom Exercise - Storyboard From a Random Film or TV Show
 
 ![photo 1](photos/12.jpg)
 
@@ -105,6 +105,8 @@ cont.
 # :page_with_curl: Week 2 Session 2 Homework - Audio
 
 ## The Key Moment
+
+One of the most important moments in the video is when the dire mood transitions into an uplifting one, between frames 10-12 on the storyboard. This transition is meant to depict a natural shift in emotion, the success of this transition relies very heavily on the execution of the sound design. In frame 10, the slow and melacholic track will fade off, giving into almost complete silence in the opening of frame 11. The sound effect of the seagulls will be added in this frame, to provide context for frame 12, with the seagulls. After letting the quient atmosphere simmer, it will be then where the soft, uplifting music will join the mix, and will run to the conclusion of the video. This mix of non-diegetic sound and diegetic sound is what I hope will help the audience feel the shift in the story. The sounds of the seagull is used to get their reactive attention, acting as a bridge between the 2 music tracks that act as a tool to help them follow the story with volitional attention.
 
 ## Discussion and Analysis
 
