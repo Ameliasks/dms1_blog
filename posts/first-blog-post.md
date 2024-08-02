@@ -95,6 +95,22 @@ In shot 13 of the storyboard, to connect the previous frame of the 2 seagulls in
 
 cont.
 
+## Classroom Exercise - Stroyboard From a Random Film or TV Show
+
+![photo 1](photos/12.jpg)
+
+*Scene taken from Derry Girls(2018-2022), Netflix. Link: https://youtu.be/s_kIb-_wykE?si=MuS1dBUK8ZhIQM2v*
+
+
+# :page_with_curl: Week 2 Session 2 Homework - Audio
+
+## The Key Moment
+
+## Discussion and Analysis
+
+
+
+
 ![a drippy lemon](logo.svg)
 
 ^ images are written like this: `![description](file_path/static/logo.svg)`
