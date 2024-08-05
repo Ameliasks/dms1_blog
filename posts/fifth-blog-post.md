@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-<body class="bg-gray-100">
+
 
 # :page_with_curl: Week 3 Session 1 Homework 
 
@@ -24,4 +24,3 @@ For this activity, I decided to reinforce the creative intention of the group th
 ![photo 2](photos/13.png)
 *Editing process on Premiere Pro*
 
-</body>
