@@ -22,7 +22,6 @@ export default function PostPage(props: PageProps<Post>) {
         <style dangerouslySetInnerHTML={{ __html: CSS }} />
         <style dangerouslySetInnerHTML={{ __html: KATEX_CSS }} />
       </Head>
-      <body class="bg-gray-100">
         
          <main class="max-w-screen-md px-4 pt-16 mx-auto">
          <h1 class="text-5xl font-bold">{post.title}</h1>
@@ -34,15 +33,15 @@ export default function PostPage(props: PageProps<Post>) {
           })}
         
         </time>
-        <div class="bg-gray-100">
           <div
+          
           class="mt-8 markdown-body"
           dangerouslySetInnerHTML={{ __html: render(post.content, {
             disableHtmlSanitization: post.disableHtmlSanitization,
             allowMath: post.allowMath,
           }) }}
         />
-        </div>
+
       </main>
       </body>
     </>
