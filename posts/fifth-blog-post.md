@@ -14,9 +14,9 @@ allow_math: true
 For this activity, I decided to reinforce the creative intention of the group that shot the video, by implementing a horror soundtrack and a monster gurggling sound at the end of the clip, to make it seem as if the protagonist was being watch, and is trembling with fear.
 
 
-![photo 2](photos/Screenshot 2024-08-05 at 11.50.45 AM.png)
+![photo 2](photos/13.png)
 *Aydrin, Spike and I filming our clip, slender_man*
 
 
-![photo 2](photos/Screenshot 2024-08-05 at 11.49.53 AM.png)
+![photo 2](photos/14.png)
 *Editing process on Premiere Pro*
