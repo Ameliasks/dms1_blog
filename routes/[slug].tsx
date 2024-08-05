@@ -43,7 +43,6 @@ export default function PostPage(props: PageProps<Post>) {
         />
 
       </main>
-      </body>
     </>
   );
 }
