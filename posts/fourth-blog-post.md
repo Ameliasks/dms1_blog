@@ -8,7 +8,7 @@ allow_math: true
 
 # :page_with_curl: Week 2 Session 2 Homework - Audio
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/994955797?h=004829ccec" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/994955797?h=004829ccec" width="736" height="414" frameborder="0"    allowfullscreen></iframe>
 
 ## Premiere Pro 2022 - 2024 Essential Training Chapter 6
 
