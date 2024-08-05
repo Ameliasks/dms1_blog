@@ -1,6 +1,6 @@
 ---
-title: Digital Media Studio 1 
-published_at: 2024-07-22
+title: Week 2 Session 1
+published_at: 2024-07-29
 snippet: 
 disable_html_sanitization: true
 allow_math: true

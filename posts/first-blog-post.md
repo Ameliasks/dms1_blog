@@ -1,5 +1,5 @@
 ---
-title: Digital Media Studio 1 
+title: Week 1 Session 1
 published_at: 2024-07-22
 snippet: 
 disable_html_sanitization: true
@@ -72,26 +72,6 @@ This one was an accidental find while we were exiting the library after solving 
 Clueless and out of time, we unfortunately returned to the studio without deciphering 2 of the riddles: a basement-dwelling Black Box, bigger than you might think and a golden globe atop a tower of eights. Despite that and the hunch we may have gotten a couple of answers wrong, I still enjoyed the opportunity this activity gave me to get to know some of my classmates on my first day of university.
 
 
-# :page_with_curl: Week 1 Session 2 Homework - Editing Experiment
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/990489257?h=e8abb1979b" width="736" height="414" frameborder="0"    allowfullscreen></iframe>
-
-## Notes
-
-As someone with experience with Premiere Pro and editing, but has not been actively using it for some time, this week's lesson and the tutorials on LinkedIn Learning have definately helped me to re-familliarise myself with the software and its tools. One of my greatest takeaways was the shortcut keys for expediting the editing process, as I was not aware that there were so many of them. I also learnt the techniques of top and tail editing, roll trimming and subclipping from the online tutorials. In the simple clip embedded above, I tried to test out and experiment with some of the new shortcut keys, to montage together 3 separate clips. The first clip and audio is courtesy to Arielle, and the other 2 clips were filmed by me. I will definately keep in mind all these tools and techniques while working on Assignment 1.
-
-
-
-
-# :page_with_curl: Week 2 Session 2 Homework - Audio
-
-## The Key Moment
-
-One of the most important moments in the video is when the dire mood transitions into an uplifting one, between frames 10-12 on the storyboard. This transition is meant to depict a natural shift in emotion, the success of this transition relies very heavily on the execution of the sound design. In frame 10, the slow and melacholic track will fade off, giving into almost complete silence in the opening of frame 11. This will interupt the volitional attention of the audience. The sound effect of the seagulls will be added in this frame, to provide context for frame 12, with the seagulls, making use of reactive attention. After letting the quiet atmosphere simmer, it will be then where the soft, uplifting music will join the mix, transitioning their attention back into a volitional one, all the way to the end of the story. This mix of non-diegetic sound and diegetic sound is what I hope will help the audience feel the shift in the story. 
-
-## Discussion and Analysis
-
-The emotional tone of the video shifts several times. To immerse the audience in the disorientation of the first act, the music will be uptempo and slightly unsettling, couple with loud sound effects, to make the audio visual experience very overwhelming. In the second act, to convey the melancholy the music supporting the scenes will be gentle and somber, and the atmospheric sound will be more subdued as compared to the first act. And finally in the third act, to show contentment, the music will be soft and uplifting.
 
 
 
