@@ -25,7 +25,7 @@ export default function PostPage(props: PageProps<Post>) {
       <body class="bg-gray-100">
          <main class="max-w-screen-md px-4 pt-16 mx-auto">
         <h1 class="text-5xl font-bold">{post.title}</h1>
-        <time class="text-gray-500">
+        <time class="text-blue-300">
           {new Date(post.publishedAt).toLocaleDateString("en-us", {
             year: "numeric",
             month: "long",
