@@ -36,12 +36,12 @@ export default function PostPage(props: PageProps<Post>) {
          </time>
          <div
           class="mt-8 markdown-body"
-          <body class="bg-gray-100">
+         
           dangerouslySetInnerHTML={{ __html: render(post.content, {
           disableHtmlSanitization: post.disableHtmlSanitization,
           allowMath: post.allowMath,
           }) }}
-          </body>
+          
         />
       </main>
       </body>
