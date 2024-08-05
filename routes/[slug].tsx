@@ -33,12 +33,12 @@ export default function PostPage(props: PageProps<Post>) {
             day: "numeric",
           })}
         
-        </time>
-        <div
-          class="mt-8 markdown-body"
+         </time>
+         <div
+          class="mt-8"
           dangerouslySetInnerHTML={{ __html: render(post.content, {
-            disableHtmlSanitization: post.disableHtmlSanitization,
-            allowMath: post.allowMath,
+          disableHtmlSanitization: post.disableHtmlSanitization,
+          allowMath: post.allowMath,
           }) }}
         />
       </main>
