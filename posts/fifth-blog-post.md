@@ -28,3 +28,6 @@ For this activity, I decided to reinforce the creative intention of the group th
 
 I worked in sections for the editing, as all 3 acts of my video have very different pacing and sound design. I first arranged the clips that I know go together according to the storyboard, then time them using the beat and melody of the sondtrack as a guide. I then adjust the audio levels of the soundtrack and the ambient sounds, based on what sound is more important in conveying the narrative of the story. I then added additional sound effects I sourced online, like the telephone ringing and car honking. 
 
+## Draft 
+
+<<iframe title="vimeo-player" src="https://player.vimeo.com/video/996221529?h=e3ed619e55" width="736" height="414" frameborder="0"    allowfullscreen></iframe>
