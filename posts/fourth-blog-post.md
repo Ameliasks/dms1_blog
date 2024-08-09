@@ -14,6 +14,8 @@ allow_math: true
 
 For this exercise, I stitched 3 clips that I took for assignment 1 to the rhythm of a bright jazz audio I am considering to use for the project. I used the keyframing audio technique to ease in the ambient sound and the soundtrack at the start of the clip, as well as used it to eccentuate the ending beat of the soundtrack, so that the ending would be more impactful. I also used a constant power crossfade for the 3 ambient sounds, to ensure a smooth and consistent audio. 
 
+![photo 1](photos/15.png)
+*Updated storyboard with audio description*
 
 ## The Key Moment
 
