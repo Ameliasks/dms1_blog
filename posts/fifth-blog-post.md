@@ -29,4 +29,5 @@ For this activity, I decided to reinforce the creative intention of the group th
 I worked in sections for the editing, as all 3 acts of my video have very different pacing and sound design. I first arranged the clips that I know go together according to the storyboard, then time them using the beat and melody of the sondtrack as a guide. I then adjust the audio levels of the soundtrack and the ambient sounds, based on what sound is more important in conveying the narrative of the story. I then added additional sound effects I sourced online, like the telephone ringing and car honking. 
 
 <iframe src="https://player.vimeo.com/video/996221529?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="736" height="414" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="DMS1_Leaving The Nest_Draft"></iframe>
+
 *Draft*
