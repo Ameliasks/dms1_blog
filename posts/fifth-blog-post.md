@@ -24,3 +24,7 @@ For this activity, I decided to reinforce the creative intention of the group th
 ![photo 2](photos/13.png)
 *Editing process on Premiere Pro*
 
+## Video Draft Process
+
+I worked in sections for the editing, as all 3 acts of my video have very different pacing and sound design. I first arranged the clips that I know go together according to the storyboard, then time them using the beat and melody of the sondtrack as a guide. I then adjust the audio levels of the soundtrack and the ambient sounds, based on what sound is more important too conveying the narrative of the story. I then added additional sound effects honking.
+
