@@ -12,7 +12,7 @@ allow_math: true
 ## Concept
 This story is titled "Leaving The Nest". It conveys the disorientation and overwhelming emotions I felt when I first moved to Melbourne, moving away from the comfort of my home and family for the first time. It explores the initial feelings of fear and isolation, to melancholy and sadness of being homesick, and finally contentment and anticipation for a new begining.
 
-"And suddenly you know: It's time to start something new and trust the magic of new beginnings." is a quote by Meister Eckhart, a German Catholic theologian, philosopher and mystic. I included this quote because I think it reflects the massage at the end of the video very well.
+"And suddenly you know: It's time to start something new and trust the magic of new beginnings." is a quote by Meister Eckhart, a German Catholic theologian, philosopher and mystic. I included this quote because I think it reflects the message at the end of the video very well.
 
 ## Establishing and Maintaining Continuity
 
