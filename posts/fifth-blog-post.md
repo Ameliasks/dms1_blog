@@ -31,3 +31,12 @@ I worked in sections for the editing, as all 3 acts of my video have very differ
 <iframe src="https://player.vimeo.com/video/996221529?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="736" height="414" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="DMS1_Leaving The Nest_Draft"></iframe>
 
 *Draft*
+
+
+## Editing References
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GHZYMobv37A?si=DsEx1zlCpU0Lhas8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5RecEKidds?si=7-6yO3DvNV-kiO_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+These are the 2 videos that I constantly referenced during my editing process. Their audios have very strong harmony between soundtracks and ambient sound effects, which accompanied by the visuals, creates very effective storytelling with a distict mood and atmosphere. Those were the qualities I wanted to emulate in my own project.
