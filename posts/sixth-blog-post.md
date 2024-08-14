@@ -14,13 +14,7 @@ allow_math: true
 
 ## Classroom Task
 
-This task required me to do quick compositions and layouts with a decent amount of variety using Adobe Illustrator. I think it is really amazing how shapes on their own can contribute so much in design, by communicating so different messages even when you make them just subtly different. For order, I retained the size of all the squares, to show repetition and structure. I played around with the sizing and rotation of the squares to use contrast to show 'increase'. For 'bold', I increased the sizes of all the boxes, to reduce the amount of white space, and played around with rotation to express movement. Similarly for 'congested' I wanted to reduce the amount of white space even further, and make the squares look tapped and restrictive in the space. For 'tension' I used a mix of rotation for the squares, and reduced the white space between them to show disharmony. And lastly for 'playful, I tried out different compositions with smaller squares, and utilised white space and rotation to give the illusion of movement.
-
-
-I think it is a great simple activity that encourages creativity and flexbility, since we needed to work within the contraints of 4 black boxes contained by a box in a short time.
-
-## Illustrator 2024 Essential Training
-
+This task required me to do quick compositions and layouts with a decent amount of variety using Adobe Illustrator. I think it is really amazing how shapes on their own can contribute so much in design, by communicating so different messages even when you make them just subtly different. For order, I retained the size of all the squares, to show repetition and structure. I played around with the sizing and rotation of the squares to use contrast to show 'increase'. For 'bold', I increased the sizes of all the boxes, to reduce the amount of white space, and played around with rotation to express movement. Similarly for 'congested' I wanted to reduce the amount of white space even further, and make the squares look tapped and restrictive in the space. For 'tension' I used a mix of rotation for the squares, and reduced the white space between them to show disharmony. And lastly for 'playful, I tried out different compositions with smaller squares, and utilised white space and rotation to give the illusion of movement. I think it is a great simple activity that encourages creativity and flexbility, since we needed to work within the contraints of 4 black boxes contained by a box in a short time.
 
 ## Assignment 2 Brainstorm
 
