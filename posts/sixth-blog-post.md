@@ -13,7 +13,11 @@ allow_math: true
 *Black Square Activity*
 
 ## Classroom Task
-This task required me to do quick compositions and layouts with a decent amount of variety using Adobe Illustrator. I think it is really amazing how shapes on their own can contribute so much in design, by communicating so different messages even when you make them just subtly different. I think it is a great simple activity that encourages creativity and flexbility, since we needed to work within the contraints of 4 black boxes contained by a box in a short time.
+
+This task required me to do quick compositions and layouts with a decent amount of variety using Adobe Illustrator. I think it is really amazing how shapes on their own can contribute so much in design, by communicating so different messages even when you make them just subtly different. For order, I retained the size of all the squares, to show repetition and 'order'. I played around with the sizing and rotation of the squares to use contrast to show 'increase'.
+
+
+I think it is a great simple activity that encourages creativity and flexbility, since we needed to work within the contraints of 4 black boxes contained by a box in a short time.
 
 ## Illustrator 2024 Essential Training
 
