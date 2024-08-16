@@ -22,3 +22,5 @@ This task required me to do quick compositions and layouts with a decent amount 
 *Rough Mindmap on Journal*
 
 I started the defining process by first shortlisting 5 topics that stood out to me: dream, community, movement, home and future. I then did a quick google search on the different aspects of each of the topics. While doing this, I had inspirations for 'dream' and 'home' and so I will be going further in depth with these 2 topics.
+
+For 'dream' I looked into different kinds of dreams, and from an article I found on the healthline website, I pulled [this](https://www.healthline.com/health/types-of-dreams#lucid-dreams) list of different types of dreams: Nightmares, night terrors, lucid dreams, daydreams, recurring dreams, healing dreams, false awakenings, vivid dreams and prophetic dreams. I thought that I could possibly do a bottled dream concept, where each icon looks like a bottle, until you hover over and see one of the types of dreams. But some of these dreams are challenging to express in icon form, so I have to think a little further.
