@@ -11,3 +11,5 @@ allow_math: true
 *20 thumbnail sketches*
 
 The task was to create 20 thumbnail sketches of a chosen topic- I chose my home country, SIngapore. Most of the icons are of the cityscape, the food, icons and landmarks.
+
+## Assignment 2 Thumbnail Sketches
