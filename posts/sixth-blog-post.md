@@ -27,8 +27,6 @@ For 'dream' I looked into different kinds of dreams, and from an article I found
 
 For 'home' I have 2 different approaches in mind, the first would be icons of home furniture like: sofa, lamp, bed, etc. and the second is icons of the emotional needs of a good home. According to [this](https://happiful.com/what-makes-a-happy-home) list, these emotional needs include: security, adaptability, nourishment and self-expression. Additionally, [this](https://victoriarealtors.in/blog/features-ideal-home/#:~:text=An%20ideal%20home%20offers%20it's,the%20entry%20of%20unwanted%20intruders.) includes factors such as: size of house, contruction and architecture, location and connectivity, safety and security, appreciation value, amneties, good neighbourhood and lifestyle. Combining the factors from both articles could be a probable idea for the project.
 
-As part of this process, write a blog post in which you outline a specific platform (i.e: iPhone, Google Chrome, Playstation), context (i.e: items on a printed menu, navigational elements on a website, a videogame UI), and audience (i.e: age, interests, background) for your icon designs.
+## Assignment 2 Chosen Concept
 
-Platform
-Concept
-Intended Audience
+After deliberation, the theme I have chosen is 'home'. The platform would be a desktop website, a real estate website that will inform buyers what they should be looking for in a new home. The audience would be people in their mid twenties to thirties, interested in buying a new home and and looking up this website for information.
