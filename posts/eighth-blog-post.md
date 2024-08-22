@@ -22,6 +22,6 @@ With the icons previously identified in the previous blog pos, I started to tran
 A small struggle I faced after placing my icons together was that some were more detailed than others. In order to strike a balance to achieve overall coherence, I had to remove some details from the original designs.
 
 ![photo 1](photos/25.png)
-*icons and palettes*
+*icons in progress and colour palette experimentation*
 
 The icons I chose to work on first were: size, security, location and renovation. The style I have chosen is flat colour with subtle block shading. I experimented with a monochromatic, an analogous, a triadic and 2 complementary colour palettes. Overall, I prefer the look of the analogous and complementary palettes, they provide better contrast than monochromatic, and are less chaotic/ busy than the triadic one. They also suit the pleasing, friendly and approachable look I can going for.
