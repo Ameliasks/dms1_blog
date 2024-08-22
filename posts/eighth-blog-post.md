@@ -24,4 +24,6 @@ A small struggle I faced after placing my icons together was that some were more
 ![photo 1](photos/25.png)
 *icons in progress and colour palette experimentation*
 
-The icons I chose to work on first were: size, security, location and renovation. The style I have chosen is flat colour with subtle block shading. I experimented with a monochromatic, an analogous, a triadic and 2 complementary colour palettes. Overall, I prefer the look of the analogous and complementary palettes, they provide better contrast than monochromatic, and are less chaotic/ busy than the triadic one. They also suit the pleasing, friendly and approachable look I can going for.
+The icons I chose to work on first were: size, security, location and renovation. The style I have chosen is flat colour, rounded edges with subtle block shading. I experimented with a monochromatic, an analogous, a triadic and 2 complementary colour palettes. Overall, I prefer the look of the analogous and complementary palettes, they provide better contrast than monochromatic, and are less chaotic/ busy than the triadic one. They also suit the pleasing, friendly and approachable look I can going for. 
+
+Moving forward, after completing the rest of the icons, I will rework the colours and contrast of the icons after seeing the whole suite.
