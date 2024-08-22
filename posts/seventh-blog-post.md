@@ -21,7 +21,7 @@ For my icons with 'home' as the theme, I will be using symbolic representations 
 
 As these are the early thumbnail sketches, the final designs might differ marginally. I will pinpoint which icons I like at this point in time. 
 
-- For 'security' I would choose 5, but include more detail in the house. I think the idea of increasing the contrast between the key and the house would improve the design.
+- For 'security' I would choose 5, and perhaps give it a fake-3D treatment and rotate it to make the design look more dynamic.
 
 - For 'size', I would go for 4. I think it brings the point across better than the other options. And the leading lines could look interesting.
 
