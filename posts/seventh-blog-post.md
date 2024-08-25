@@ -27,7 +27,7 @@ As these are the early thumbnail sketches, the final designs might differ margin
 
 - For 'neighbourhood', I would choose 3 or 5. For 3, one big and one small house could give great contrast, but 5 has a mix of vertical ad horizontal lines that could provide visual interest.
 
-- For 'location' I would choose 1 or 5. Both feature maps, and the '3d' look of the map can provide a sense of depth in a flat design.
+- For 'location' I would choose 1, but also include a house somewhere in the design, with the currency as the focal point. I will use colour and contrast to achieve this.
 
 - For 'community' I would choose 1. I think the whitespace between the two hands could be made to look like house.
 
