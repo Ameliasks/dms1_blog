@@ -11,3 +11,8 @@ allow_math: true
 *Visual Studio Code Experiment*
 
 I decreased the sizing of all the icons, as well as increased the padding, after adding in 3 of my icons. I did face some troubles with visual studio code and the whole set-up process, but I'm glad I finally figured it out!
+
+![photo 1](photos/27.png)
+*Using Adobe Audition to edit audio*
+
+
