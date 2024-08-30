@@ -13,5 +13,10 @@ For the classroom exercise, Arielle and I went out to record some sounds on our 
 
 # Assignment 2 Progress
 
+![photo 1](photos/27.png)
+*Brainstorm sketches for interaction icons*
+
+Now with the main 9 icons more or less completed, I needed to get started on the interaction icons that would appear on pointer over. I knew that these icons would need to emphasise the individual messages of the originals.
+
 
 

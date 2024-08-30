@@ -18,7 +18,7 @@ Now that I can see the overview of the icons, I can see some things that can be 
 *Editing sound effects in Audition*
 
 
-Audio Notes:
+## Sound Effects
 
 For 'community' I wanted to use a joyful 'level up' sound effect to reflect the idea of gaining community in the icon.
 
