@@ -11,8 +11,6 @@ allow_math: true
 *Using Adobe Audition to edit audio*
 For the classroom exercise, Arielle and I went out to record some sounds on our phone, these sounds include stomping, phone pickup/ put down, open/closing door and piano key. Just for the exercise, I used html to include the piano key sound effect on click on the top left icon.
 
-[Link](https://ameliasks-week6-55.deno.dev/) to implementing sound effect classroom exercise 
-
 # Assignment 2 Progress
 
 
