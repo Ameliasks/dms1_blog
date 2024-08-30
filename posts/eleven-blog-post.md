@@ -38,7 +38,7 @@ For 'lifestyle' I used a car ignition sound to highlight the car in the icon. I 
 
 To ensure the consistency of volume between all the sound effects, I used the levels bar on the right side of the Audition interface as a base to adjust the volumes of the sounds and make sure they are about the same volume.
 
-Audio credits
+## Audio credits
 
 Sound Effects:
 - CarEngine by Pixabay
