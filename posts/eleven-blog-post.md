@@ -41,16 +41,13 @@ To ensure the consistency of volume between all the sound effects, I used the le
 Audio credits
 
 Sound Effects:
-CarEngine by Pixabay
-Arcade UI 14 by floraphonic via Pixabay
-Elegant Piano Logo Tranquility Relaxation Medicine by UNIVERSFIELD via Pixabay
-Bright Line Piano Loop by Pixabay
-Notification by Pixabay
-Door bell sound by Pixabay
-Infographic Pop 4 by floraphonic via Pixabay
+- CarEngine by Pixabay
+- Elegant Piano Logo Tranquility Relaxation Medicine by UNIVERSFIELD via Pixabay
+- Bright Line Piano Loop by Pixabay
+- Notification by Pixabay
+- Door bell sound by Pixabay
+- Infographic Pop 4 by floraphonic via Pixabay
+- Cute Level Up 1 by floraphonic via Pixabay
+- Arcade UI 14 by floraphonic via Pixabay
+- Piano Key (Hammer) by Amelia Siew
 
-Piano Key (Hammer) audio by Amelia Siew
-
-Arcade UI 21
-Marimba Bloop 1
-Cute Level Up 1
