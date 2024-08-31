@@ -25,7 +25,7 @@ I encountered some trouble regarding the alignment of the icons, since I had red
 
 ## Sound Effects
 
-For 'community', I thought a text notification sound woukd be suitable as there is a text bubble in the icon design, and it signifies communication within a community.
+For 'community', I thought a text notification sound would be suitable as there is a text bubble in the icon design, and it signifies communication within a community.
 
 For 'appreciation value' since it has an association to currency, I thought a video game coin collect sound effect would be fitting.
 
