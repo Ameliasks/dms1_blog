@@ -19,8 +19,9 @@ Now that I can see the overview of the icons, I can see some things that can be 
 ![photo 1](photos/31.png)
 *Checking alignment using guides in Illustrator*
 
-After the main designs were completed, it was time to check all that all the alignments, sizes, widths and colours of all the icons to improve unity.
+After the main designs were completed, it was time to double check all the alignments, sizes, widths and colours were unified. I used 1 or 2 of the icons as a base for the guides, then align the assets of the other icons to those guides. Especially with the image swap, I needed to make sure the elements that were supposed to be consistent inbetween swaps were accurate, ie the supporting circular motif of the top left icon, the size and postion of the rounded rectangle motif of the bottom right icon, and many other smaller details. Some minor colour changes were needed as well, for the set to look good as a whole.
 
+I encountered some trouble regarding the alignment of the icons, since I had reduced the sizes of the icons slightly from the template for a pleasant viewing experience. But due to this, the horizontal and vertical alignments were off. I manually adjusted the row width to fix the horizontal alignment, and used linebreak to fix the vertical alignment. 
 
 ## Sound Effects
 
@@ -43,6 +44,9 @@ For 'amenities' I wanted a calm and bright sound to reflect the comfort of havin
 For 'lifestyle' I used a car ignition sound to highlight the car in the icon. I added the normalise effect and pitched it up a notch to make the sound more bright and clean.
 
 To ensure the consistency of volume between all the sound effects, I used the levels bar on the right side of the Audition interface as a base to adjust the volumes of the sounds and make sure they are about the same volume.
+
+## Overall reflection
+This first foray into coding was a quite the journey. I faced many troubles on several fronts, either due to careless mistakes or unexpected coding behaviours. At least after all that troubleshooting and fixing, I've gained a deeper understanding of how html and css works. I guess you really learn the most from your mistakes! And I am estatic to be able to see my designs presented exactly the way I wanted in the end.
 
 ## Audio credits
 
