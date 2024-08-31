@@ -20,9 +20,7 @@ Now that I can see the overview of the icons, I can see some things that can be 
 
 ## Sound Effects
 
-For 'community' I wanted to use a joyful 'level up' sound effect to reflect the idea of gaining community in the icon.
-
-For 'size', since my icon has arrows pointing outwards, I wanted a 'pop' sound, that feels like something is being expanded, so I used this bright piano sound, and added a reverb effect to make the sound 'fuller'.
+For 'community', I thought a text notification sound woukd be suitable as there is a text bubble in the icon design, and it signifies communication within a community.
 
 For 'appreciation value' since it has an association to currency, I thought a video game coin collect sound effect would be fitting.
 
@@ -30,7 +28,11 @@ For 'security' I wanted a negative interface sound, because usually in UI, we on
 
 For 'neighbourhood' I thought it would be appropraite to use a door bell sound effect since the icon features house facades.
 
+For 'size', since my icon has arrows pointing outwards, I wanted a sound that feels like something is growing or being expanded. For this I used a bright piano sound and added reverb to make the sound fuller.
+
 For 'location', I wanted to use a sound reminiscent of a GPS notification since it's closely affiliated with map icons. I added a bit of reverb to get more resonance from the original sound.
+
+For 'construction', since the key asset in the icon is the hammer, I thought that it would be best to include a hammer sound effect. The recording I made of a piano key seemed to sound like a hammer hitting metal and sounds a lot brighter and fuller than any other hammer sound effect I could look up online, ergo, I decided that it was the most suitable.
 
 For 'amenities' I wanted a calm and bright sound to reflect the comfort of having amenities in a home. I chose an elegant piano sound effect for this. The original sound had 3 notes, but I cropped it to 2 to make it a more appropraite length as an icon sound, and added the normalise effect.
 
@@ -46,7 +48,7 @@ Sound Effects:
 - Bright Line Piano Loop by Pixabay
 - Notification by Pixabay
 - Door bell sound by Pixabay
-- Infographic Pop 4 by floraphonic via Pixabay
+- livechat by u_03k5gu83c1 via Pixabay
 - Cute Level Up 1 by floraphonic via Pixabay
 - Arcade UI 14 by floraphonic via Pixabay
 - Piano Key (Hammer) by Amelia Siew
