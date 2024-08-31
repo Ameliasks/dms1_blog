@@ -14,8 +14,12 @@ Using the icons I have prepared so far, I included the hover-image change, and o
 
 Now that I can see the overview of the icons, I can see some things that can be improved, such as the visual connection between the image changes. I will refine the shapes and colours to ameliorate this. I also now have a better idea of what audio to use for the individual icons to enhance the message of each icon.
 
-![photo 1](photos/29.png)
-*Editing sound effects in Audition*
+## Refinement
+
+![photo 1](photos/31.png)
+*Checking alignment using guides in Illustrator*
+
+After the main designs were completed, it was time to check all that all the alignments, sizes, widths and colours of all the icons to improve unity.
 
 
 ## Sound Effects

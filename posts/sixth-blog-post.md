@@ -29,4 +29,4 @@ For 'home' I have 2 different approaches in mind, the first would be icons of ho
 
 ## Assignment 2 Chosen Concept
 
-After deliberation, the theme I have chosen is 'home'. The platform would be a desktop website, a real estate website that will inform buyers what they should be looking for in a new home. The audience would be people in their mid twenties to thirties, interested in buying a new home and and looking up this website for information.
+After deliberation, the theme I have chosen is 'home'. The platform would be a desktop website, a real estate website that will inform buyers what they should be looking for in a new home. The audience would be people in their mid twenties to thirties, interested in buying a new home and and looking up this website for information. I want to website to feel approachable and friendly to the prospective new home buyers.

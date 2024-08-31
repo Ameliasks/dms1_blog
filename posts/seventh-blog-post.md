@@ -10,7 +10,7 @@ allow_math: true
 ![photo 1](photos/19.jpg)
 *20 thumbnail sketches*
 
-The task was to create 20 thumbnail sketches of a chosen topic- I chose my home country, SIngapore. Most of the icons are of the cityscape, the food, icons and landmarks.
+The task was to create 20 thumbnail sketches of a chosen topic- I chose my home country, Singapore. Most of the icons are of the cityscape, the food, icons and landmarks.
 
 
 ## Assignment 2 Thumbnail Sketches
@@ -21,7 +21,7 @@ For my icons with 'home' as the theme, I will be using symbolic representations 
 
 As these are the early thumbnail sketches, the final designs might differ marginally. I will pinpoint which icons I like at this point in time. 
 
-- For 'security' I would choose 5, and perhaps give it a fake-3D treatment and rotate it to make the design look more dynamic.
+- For 'security' I would choose 3, and create shadows to make it more dimensional and rotate it to make the design look more dynamic. // why
 
 - For 'size', I would go for 4. I think it brings the point across better than the other options. And the leading lines could look interesting.
 
