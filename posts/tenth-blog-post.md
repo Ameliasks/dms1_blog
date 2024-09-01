@@ -10,7 +10,7 @@ allow_math: true
 ![photo 1](photos/27.png)
 *Using Adobe Audition to edit audio*
 
-For the classroom exercise, Arielle and I went out to record some sounds on our phone, these sounds include stomping, phone pickup/ put down, open/closing door and piano key. Just for the exercise, I used html to include the piano key sound effect on click on the top left icon.
+For the classroom exercise, Arielle and I went out to record some sounds on our phone, these sounds include stomping, phone pickup/ put down, open/closing door and piano key. For the exercise, I included the piano key sound effect on click for one of the icons.
 
 ## Assignment 2 Progress
 
@@ -23,17 +23,17 @@ For 'community', since the original icon featured 2 neighbours reaching out to e
 
 For 'appreciation value', since it refers to the increase in the value of a house over time, I thought that the most straightforward way to portray an increase in currency was to use an ascending arrow, akin to the ones seen in sales data and stocks.
 
-For 'security' I wanted to emphasise security measures, and refered back to my old sketches from when I was initially brainstorming for the project. I composed together all the assets from those sketches.
+For 'security' I wanted to emphasise security measures, and refered back to my old sketches from when I was initially brainstorming for the project. I composed together the assets (keys, shield and pinpad) and from those sketches into the design.
 
 For 'neighbourhood' I used a magnifying glass effect, to show the analysation of a suitable neighbourhood.
 
 For 'size' I wanted to show the different size and forms of a house, to further emphasise 'size' rather than 'expansion', since the original icon could be interpreted in these 2 ways.
 
-For 'location' I wanted to further highlight the message of looking for the right location for a home, since the original logo is a pin and a map, so I slightly altered the icon to feature a house in the location pin. The house in location pin idea was also in one of my early sketches, so that's where I got tthe idea from.
+For 'location' I wanted to further highlight the message of looking for the right location for a home, since the original logo is a pin and a map, so I slightly altered the icon to feature a house in the location pin. The house in location pin idea was also in one of my early sketches, so that's where I got the idea from.
 
 For 'construction' I zoomed into the blueprint, and turned the hammer and setsquare into a supporting element, to depict the execution of construction plans.
 
-For 'amenities' I swapped the living room background for the addition of more amenities. One of my earlier struggles was picking the best amenity for the original icon, and so I brought back the old ideas back for this design, and composed them behind the main element, the sofa, so as to show the different important amenities in a home.
+For 'amenities' I swapped the living room background for the addition of more amenities. One of my earlier struggles was picking the best amenity for the original icon, and so I brought back the old ideas back for this design, and composed them (washing machine, bed and fireplace) behind the main element, the sofa, so as to show the different important amenities a home should have.
 
 For 'lifestyle', I wanted to highlight how the car fits into one's lifestyle, so I designed a scene of the car driving against an outdoor backdrop. By retaining the original car element, it also achieves the effect of the car leaving the garage of the house and into the operations of daily life.
 
