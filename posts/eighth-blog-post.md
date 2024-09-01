@@ -29,4 +29,4 @@ The icons I chose to work on first were: size, security, location and renovation
 
 After comparison and deliberation, I have chosen the pink / turquoise complimentary palette. I thought that the contrast and vibrancy of this palette was slightly better than the others.
 
-Moving forward, after completing the rest of the icons, I will further rework the colours and contrast of the icons after seeing the whole suite.
+I will further rework the colours and contrast of the icons after completing the whole suite.
