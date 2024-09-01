@@ -48,7 +48,7 @@ For 'lifestyle' I used a car ignition sound to highlight the car in the icon. I 
 To ensure the consistency of volume between all the sound effects, I used the levels bar on the right side of the Audition interface as a base to adjust the volumes of the sounds and make sure they are about the same volume.
 
 ## Overall reflection
-This first foray into coding was a quite the journey. I faced many troubles on several fronts, either due to careless mistakes or unexpected coding behaviours. At least after all that troubleshooting and fixing, I've gained a deeper understanding of how html and css works. I guess you really learn the most from your mistakes! And I am estatic to be able to see my designs presented exactly the way I wanted in the end.
+This first foray into coding was a quite the journey, and definately a step up from making the blog. I faced many troubles on several fronts, either due to careless mistakes or unexpected coding behaviours. At least after all that troubleshooting and fixing, I've gained a deeper understanding of how html and css works. I guess you really learn the most from your mistakes! And I am estatic to be able to see my designs presented exactly the way I wanted in the end.
 
 ## Audio credits
 
