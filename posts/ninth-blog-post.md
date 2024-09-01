@@ -12,6 +12,6 @@ allow_math: true
 
 I decreased the sizing of all the icons, as well as increased the padding, after adding in 3 of my icons. I did face some troubles with visual studio code and the whole set-up process, but I'm glad I finally figured it out!
 
-Currently on track with the designs and I think everything is coming together alright. But achieving the simple and unified look requires a lot of experimentation and time. Will this design still look complete without this small detail? Does the design have enough contrast? Are amongst the questions that I kept asking myself during the design process. 
+I am currently on track with the designs and I think everything is coming together alright. But achieving the simple and unified look has proven to require a lot of experimentation and time. Will this design still look complete without this small detail? Does the design have enough contrast? Were amongst the questions that I had to keep asking myself during the design process. 
 
 
