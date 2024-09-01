@@ -40,8 +40,9 @@ As these are the early thumbnail sketches, the final designs might differ margin
 
 ## Inspirations
 ![photo 1](photos/22.png)
+*Left: Everyday Rewards designed by Chris van Rooyen, Right: Uber designed by Jordon Cheung*
 
-As of right now, these are my main art direction references. I love the use of strong colour schemes, that helps to separate elements within the icon from each other, so the use of outlines would not be neccessary. For the colour scheme, akin to the references, I will select 3/4 distict colours to achieve the same effect. I also like the rounded edges of the references, which I would emulate in my own icons to express friendliness and approachability.
+As of right now, these are my main art direction references. I love the use of strong colour schemes, that helps to create contrast between the elements within the icon, so the use of outlines would not be neccessary. For the colour scheme, akin to the references, I will select 3/4 distict colours to achieve the same effect. I also like the rounded edges of the references, which I would emulate in my own icons to express friendliness and approachability.
 
 
  
