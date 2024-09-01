@@ -28,7 +28,7 @@ As these are the early thumbnail sketches, the final designs might differ margin
 
 - For 'location' I would choose 1. During the design process, I thought it would be nice to add a house inside the map, but it ended up looking too complicated, as such, I might just add the house into the interaction icon. I wanted to give some dimension to the map without removing the contrast between the it with the pin and the background, so I usde low contrast monochromatic colours to add the detail.
 
-- For 'community' I would choose 2. To create contrast, I would make the houe and person on the left larger than the right, and use colour to make it stand out more as the key focal point. I will also add a text bubble as an additional detail.
+- For 'community' I would choose 2. To create contrast, I would make the house and person on the left larger than the right, playing with proportion, and use colour to make it stand out more as the key focal point. I will also add a text bubble as an additional detail.
 
 - For 'appreciation value' I would choose 1, as I think it is the most straightforward of all the options. But I might add a house to the design as I wanted the icon to reflect appreciation value more than price, and also try my best to emphasise this in the interaction icon. 
 
