@@ -26,5 +26,18 @@ Next, the positions of the planets. I needed to arrange the planets in such a wa
 
 # :page_with_curl: Week 7 Session 1 Homework 
 
+![photo 1](photos/32.jpg)
+*Brainstorm session*
 
+Upon reflecting on the most transformative moments of my life, these are the ones I have idenitfied to be in the respective categories.
 
+Big change - When my younger twin siblings came into my life when I was 5. The transition from a pampered single child to an eldest sister came with many responsibilities and lessons, but it was through my siblings that I gained a second childhood- one that I can remember more vividly and fondly than the first. 
+
+Middle change - When my passion for art was re-ignited at 15. While I was in secondary school, I was very lost, I went to school each day with no dreams or goals for the future. It was at this time that I chose to take Art as a subject for my 'O' levels, and started to spend a lot of time and effort on it. Eventually, it grew to become my passion, one I enjoyed doing in and out of school, and led me to consider design as a career and education path. 
+
+Smmall change - Moving house at 17
+When my familly moved to a new home, I was able to have my own room, my own space for the first time in my life. I was also going to a new school, and living in a entirely new neighbourhood. But I would not say it impacted me as much as the previous 2 events.
+
+## : Chosen Idea - When my younger twin siblings came into my life when I was 5.
+
+This was the very first idea that came to mind, and I think that further shows how significant this transformation was for me. Although I was very young back then, I can still remember the old house, the spaces we used to play in, and all the toys we shared between the 3 of us. Designing a digital environment around this idea would be comparatively easier than the other options.
