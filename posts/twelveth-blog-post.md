@@ -35,7 +35,7 @@ Big change - When my younger twin siblings came into my life when I was 5. The t
 
 Middle change - When my passion for art was re-ignited at 15. While I was in secondary school, I was very lost, I went to school each day with no dreams or goals for the future. It was at this time that I chose to take Art as a subject for my 'O' levels, and started to spend a lot of time and effort on it. Eventually, it grew to become my passion, one I enjoyed doing in and out of school, and led me to consider design as a career and education path. 
 
-Smmall change - Moving house at 17
+Small change - Moving house at 17
 When my familly moved to a new home, I was able to have my own room, my own space for the first time in my life. I was also going to a new school, and living in a entirely new neighbourhood. But I would not say it impacted me as much as the previous 2 events.
 
 ## Chosen Idea - When my younger twin siblings came into my life when I was 5.
