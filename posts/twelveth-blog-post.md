@@ -22,5 +22,9 @@ First, the lighting was too harsh and many of the planets disappeared into the s
 Next, the positions of the planets. I needed to arrange the planets in such a way that they are properly composed when viewed in game mode and also in the correct order of the solar system. 
 
 ![photo 1](photos/solar-prog-2.png)
-*Final scene*
+*Final preview in game mode*
+
+# :page_with_curl: Week 7 Session 1 Homework 
+
+
 
