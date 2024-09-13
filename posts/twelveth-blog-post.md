@@ -43,4 +43,5 @@ When my familly moved to a new home, I was able to have my own room, my own spac
 This was the very first idea that came to mind, and I think that further shows how significant this transformation was for me. Although I was very young back then, I can still remember the old house, the spaces we used to play in, and all the toys we shared between the 3 of us. Designing a digital environment around this idea would be comparatively easier than the other options.
 
 ![photo 1](photos/33.jpg)
-*Main list of assets required for the project and key moments of journey *
+*Main list of assets required for the project and key moments of journey*
+
