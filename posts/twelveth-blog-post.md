@@ -49,6 +49,7 @@ Nostalgia is the main emotion I want to express in my project. I tried to recall
 ![photo 1](photos/38.jpg)
 ![photo 1](photos/39.jpg)
 *Rough sketch of environment layout*
+
 There are 2 environments that I want to build for this project. As the player experiences the path I designed, I hope they will be able to feel the monumental shift of the transformation. 
 
 The first area is supposed to sigify my life as a single child. It is a small, simple indoor area with a sky roof. Beautiful but lonely, and I will make use of a monochromatic colour palette to make the space look dull. As the viewer walks around the 'exhibit' of items, they will encounter a door that will lead them to the second area.
