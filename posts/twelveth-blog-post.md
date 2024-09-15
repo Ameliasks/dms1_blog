@@ -45,3 +45,6 @@ This was the very first idea that came to mind, and I think that further shows h
 ![photo 1](photos/33.jpg)
 *Main list of assets required for the project and key moments of journey*
 
+![photo 1](photos/38.jpg)
+*Rough sketch of environment layout*
+
