@@ -44,7 +44,14 @@ This was the very first idea that came to mind, and I think that further shows h
 
 ![photo 1](photos/33.jpg)
 *Main list of assets required for the project and key moments of journey*
+Nostalgia is the main emotion I want to express in my project. I tried to recall as many items and toys I could from my childhood that I had an emotional connection to. I will try to implement as many of these items as possible.
 
 ![photo 1](photos/38.jpg)
+![photo 1](photos/39.jpg)
 *Rough sketch of environment layout*
+There are 2 environments that I want to build for this project. As the player experiences the path I designed, I hope they will be able to feel the monumental shift of the transformation. 
+
+The first area is supposed to sigify my life as a single child. It is a small, simple indoor area with a sky roof. Beautiful but lonely, and I will make use of a monochromatic colour palette to make the space look dull. As the viewer walks around the 'exhibit' of items, they will encounter a door that will lead them to the second area.
+
+The second area signifies my life after my siblings entered my life. The space is grand and much larger than the first area. The viewer will be immediately met with 6 podium structures, designed with all the different items and toys and I shared with my siblings. Items like the bed and wardrobe would be multiplied, adn new toys would be introduced. The colour palette is bold and colourful. This area is supposed to evoke a sense of wonder and excitement.
 
