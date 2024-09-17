@@ -10,7 +10,7 @@ allow_math: true
 
 ![photo 1](photos/40.png)
 ![photo 1](photos/41.png)
-*Experiment with HDRIs and optical illusions*
+*Experiment with HDRIs and optical illusion*
 
 For my optical illusion/ anamorphic experiement, I utilised the terrain scene from the last lesson and juxtaposed it with a moon. I wanted to make the moon appear to be very large, but in fact, it is just positioned very close to the camera. 
 
