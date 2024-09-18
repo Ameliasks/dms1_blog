@@ -56,3 +56,10 @@ The first area is supposed to sigify my life as a single child. It is a small, s
 
 The second area signifies my life after my siblings entered my life. The space is grand and much larger than the first area. The viewer will be immediately met with 6 podium structures, designed with all the different items and toys and I shared with my siblings. Items like the bed and wardrobe would be multiplied, adn new toys would be introduced. The colour palette is bold and colourful. This area is supposed to evoke a sense of wonder and excitement.
 
+![photo 1](photos/43.jpg)
+*Reference for first area*
+I was inspired by the lighting of the scne. Although the colours are not vibrant, the brilliant 'sunroof' lighting and shadows make the scene very visually interesting. Although the first area is supposed to feel dull and lonely as compared to the second, I still wanted it to exude warmth and beauty and I think it would be amazing if I could replicate something close to this.
+
+![photo 1](photos/44.jpg)
+*Reference for second area*
+I was inspired by the different podiums in this scene, and it gave me the idea to categorise the objects from the list I prepared, by grouping them on the different podiums.
