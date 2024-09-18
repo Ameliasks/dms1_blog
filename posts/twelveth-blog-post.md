@@ -61,7 +61,7 @@ The second area signifies my life after my siblings entered my life. The space i
 
 I was inspired by the lighting of the environments. Although the colours are not vibrant, the brilliant open ceiling lighting make the scenes very visually appealing. Although the first area is supposed to feel dull and lonely as compared to the second, I still wanted it to exude warmth and beauty and I think it would be amazing if I could replicate something close to these references.
 
-![photo 1](photos/44.jpg)
+![photo 1](photos/44.png)
 *Reference for second area*
 
 I was inspired by the different podiums in this scene, and it gave me the idea to categorise the objects from the list I prepared, by grouping them on the different podiums.
