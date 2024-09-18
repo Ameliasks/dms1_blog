@@ -18,3 +18,8 @@ We used Google maps to get the location and floor that Muji was on, and walked t
 ![photo 1](photos/37.png)
 *Messing around with terrain painting*
 
+# :page_with_curl: Week 7 Session 2 Homework 
+
+![photo 1](photos/45.png)
+*Rough greybox blocking*
+
