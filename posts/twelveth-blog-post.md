@@ -56,7 +56,7 @@ The first area is supposed to sigify my life as a single child. It is a small, s
 
 The second area signifies my life after my siblings entered my life. The space is grand and much larger than the first area. The viewer will be immediately met with 6 podium structures, designed with all the different items and toys and I shared with my siblings. Items like the bed and wardrobe would be multiplied, adn new toys would be introduced. The colour palette is bold and colourful. This area is supposed to evoke a sense of wonder and excitement.
 
-![photo 1](photos/43.jpg)
+![photo 1](photos/43.png)
 *Reference for first area*
 
 I was inspired by the lighting of the environments. Although the colours are not vibrant, the brilliant open ceiling lighting make the scenes very visually appealing. Although the first area is supposed to feel dull and lonely as compared to the second, I still wanted it to exude warmth and beauty and I think it would be amazing if I could replicate something close to these references.
