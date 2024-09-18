@@ -23,3 +23,5 @@ We used Google maps to get the location and floor that Muji was on, and walked t
 ![photo 1](photos/45.png)
 *Rough greybox blocking*
 
+While creating this blocking, I realised that I needed to add more paths so that the environment would be more interactive, especially in the second area.
+
