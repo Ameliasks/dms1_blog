@@ -16,4 +16,4 @@ allow_math: true
 ![photo 1](photos/49.png)
 *Sourcing HDRI*
 
-[This](https://www.behance.net/gallery/14268675/CTC-Winter-Olympic-Package) is my lighting reference for this project. I love how the lighting gives a warm glow to the scene, giving a fun yet peaceful atmosphere. I went onto HDRI Haven to source a HDRI that matched this reference.
+[This](https://www.behance.net/gallery/14268675/CTC-Winter-Olympic-Package) is my lighting and materials reference for this project. I love how the lighting gives a warm glow to the scene, giving a fun yet peaceful atmosphere. I went onto HDRI Haven to source a HDRI that matched this reference.
