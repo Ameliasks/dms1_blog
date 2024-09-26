@@ -17,7 +17,10 @@ allow_math: true
 ![photo 1](photos/49.png)
 *Sourcing HDRI*
 
-[This](https://www.behance.net/gallery/14268675/CTC-Winter-Olympic-Package) is my lighting and materials reference for this project. I love how the lighting gives a warm glow to the scene, giving a fun yet peaceful atmosphere. I went onto HDRI Haven to source a HDRI that matched this reference. I aim to use a three-point lighting set-up for my scene as I think this will help the render of the scene look more beautiful and professional.
+[This](https://www.behance.net/gallery/14268675/CTC-Winter-Olympic-Package) is my lighting and materials reference for this project. I love how the lighting gives a warm glow to the scene, giving a fun yet peaceful atmosphere. I went onto HDRI Haven to source a HDRI that matched this reference. I aim to use a three-point lighting for my scene as I think this will help the render of the scene look more beautiful and professional. Three-point lighting is a traditional method for illuminating a subject in a scene with light sources from three distinct positions. 
+
+![photo 1](photos/56.png)
+*Three-point lighting diagram*
 
 ## Sourcing and creating models
 
@@ -26,7 +29,10 @@ I sourced some of my models from SketchFab and inserted them as instances into m
 ![photo 1](photos/55.png)
 *Editing texture map on Photoshop*
 
-For the assests I procured on SketchFab, I edited their texture maps on Photoshop so as to gain more control over the material finish of the models. I neede to do this because I needed the models to fit into the stylised look I was going for and for them to look harmonious next to ecah other and with the rest of the assets I modelled. I also did some simple modelling on Unity using ProBuilder.
+For the assests I procured on SketchFab, I edited their texture maps on Photoshop so as to gain more control over the material finish of the models. I neede to do this because I needed the models to fit into the stylised look I was going for and for them to look harmonious next to ecah other and with the rest of the assets I modelled. I also did some simple modelling on Unity using ProBuilder. 
+
+These models include:
+
 
 ![photo 1](photos/53.png)
 ![photo 1](photos/54.png)
