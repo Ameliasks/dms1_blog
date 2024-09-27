@@ -17,7 +17,9 @@ allow_math: true
 ![photo 1](photos/49.png)
 *Sourcing HDRI*
 
-[This](https://www.behance.net/gallery/14268675/CTC-Winter-Olympic-Package) is my lighting and materials reference for this project. I love how the lighting gives a warm glow to the scene, giving a fun yet peaceful atmosphere. I went onto HDRI Haven to source a HDRI that matched this reference. I aim to use a three-point lighting for my scene as I think this will help the render of the scene look more beautiful and professional. Three-point lighting is a traditional method for illuminating a subject in a scene with light sources from three distinct positions. 
+[This](https://www.behance.net/gallery/14268675/CTC-Winter-Olympic-Package) is my lighting and materials reference for this project. I love how the lighting gives a warm glow to the scene, giving a fun yet peaceful atmosphere. I went onto HDRI Haven to source a HDRI that matched this reference.The reason why I have vhosen a sunset HDRI for my scene is because I loved the warmth that it casts upon the scene, further highlighting the beautiful nostalgia of my childhood.
+
+ I aim to use a three-point lighting for my scene as I think this will help the render of the scene look more beautiful and professional. Three-point lighting is a traditional method for illuminating a subject in a scene with light sources from three distinct positions. 
 
 ![photo 1](photos/56.png)
 *Three-point lighting diagram*
@@ -37,6 +39,8 @@ These models include:
 ![photo 1](photos/53.png)
 ![photo 1](photos/54.png)
 *Modelling in Unity using ProBuilder*
+
+The stylisation of the assets also applies to the scale. All the objects are not realistically scaled to the perspective of the player or to each other. This is because I wanted to show the subjectivity of a child's perspective. As a child, we most probably perceive and remember certain things differently. For example, watching my DVDs on my TV was what I loved doing most as a young child, thus I scaled the DVDs and TV to be very large. In juxtaposition, the dining table is scaled to be very small, since I have little memory of dinners during my childhood, probably because my mind was preoccupied with the TV. *haha*  So although in real life, the dining table should be muh bigger than the TV, I made it much smaller instead.
 
 ## Increasing affect
 
