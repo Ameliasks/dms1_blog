@@ -22,4 +22,7 @@ The point of my environment I have decided to frame is the entrance of the secon
 
 Initially, the whole environment was on a flat plain and the 2 areas set apart from each other. But as I observed the works of my peers and the works of other 3D artists on Pinterest and Behance, I found my flat terrain to be lacking in affect for the transition. So ameliorate this, I made a couple of changes. These changes included elevating the second rea, so that it looks more grand, and the player has to 'look up' to see it. It also helps to build the anticipation of walking towards the second area. Additionally, I added a welcome sign and other decorative elements like arcs, lights and arrows to the bridge, to increase the visual interest of the frame. I also modelled a grantry, to make the player feel like they are entering a new area that is like a theme park.
 
-These are my references
+These are my references for framing and point of prospect. I also studied them when I was trying to add details into the environment.
+
+## : Animating Door 
+Using [this](https://youtu.be/K9jnIPnsQ_w?si=B5mNdE4n_dlNi6p8) tutorial, I managed create an animation for my door to open as the player approaches it. I did encounter some problems in between especially within the Unity interface when I was keyframing the animation, but thankfully I managed to resolve it.
