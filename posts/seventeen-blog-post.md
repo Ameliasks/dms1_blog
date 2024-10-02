@@ -31,6 +31,10 @@ My first idea was to try a UI pop-up that appears when the player spawns into th
 
 I played around with the fonts and colours to find the correct contrast and good readibility. I think that this sign serves my intention well so I'm satisfied with it as an alternative!
 
+## Technical Issues 
+
+I was very thankful for the video that was posted in the resource server on using occlussion culling to accelerate fps because my computer was starting to lag. Unfortunately thereafter, I did run into the issue of objects being clipped because of occlusion culling. However, I managed to resolve this by clearing and rebaking the occulsion of all objects, and turning off dynamic occlusion for the affected objects.
+
 ## General Reflections
 
 This assignment and its accompanying modules was my introduction to Unity. As someone who doesn't play video games, I definitely felt out of my depth the past couple of weeks. In an attempt to make up for this, I spent a lot of time observing 3D forms on Pinterest, watching Unity and Blender tutorials and experimenting all sorts of things in Unity. I also felt a wave of accomplishment and relief as I watched people enjoying my game. I will definitely work on more 3D projects in the future!
