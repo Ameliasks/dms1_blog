@@ -35,13 +35,24 @@ I played around with the fonts and colours to find the correct contrast and good
 
 I was very thankful for the video that was posted in the resource server on using occlussion culling to accelerate fps because my computer was starting to lag. Unfortunately thereafter, I did run into the issue of objects being clipped because of occlusion culling. However, I managed to resolve this by clearing and rebaking the occulsion of all objects, and turning off dynamic occlusion for the affected objects.
 
+Another odd issue I faced was that a model that I made in Blender had faces that became invisible when imported into Unity, I found out that this issue had to be fixed in Blender, by flipping the normals of the faces of the object. So I managed to resolve that.
+
+![photo 1](photos/64.png)
+*Problem and Solved*
+
 ## General Reflections
 
 This assignment and its accompanying modules was my introduction to Unity. As someone who doesn't play video games, I definitely felt out of my depth the past couple of weeks. In an attempt to make up for this, I spent a lot of time observing 3D forms on Pinterest, watching Unity and Blender tutorials and experimenting all sorts of things in Unity. I also felt a wave of accomplishment and relief as I watched people enjoying my game. I will definitely work on more 3D projects in the future!
 
 ## Credits
 
-Audio Credits:
+Audio Credits
+
+Soundtrack:
+Sleeping Sheep by The Green Orbs via Youtube Audio Library
+Rainbow Forest by Quincas Moreira via Youtube Audio Library
+
+Sound Effects:
 
 
 Model Credits:
