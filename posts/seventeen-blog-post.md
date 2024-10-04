@@ -37,8 +37,8 @@ I was very thankful for the video that was posted in the resource server on usin
 
 Another odd issue I faced was that a model that I made in Blender had faces that became invisible when imported into Unity, I found out that this issue had to be fixed in Blender, by flipping the normals of the faces of the object. So I managed to resolve that.
 
-![photo 1](photos/64.png)
-*Problem and Solved*
+![photo 1](photos/65.png)
+*Left: The original problem, Right: Solved*
 
 ## General Reflections
 
