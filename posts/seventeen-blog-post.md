@@ -41,7 +41,11 @@ Another odd issue I faced was that a model that I made in Blender had faces that
 ![photo 1](photos/65.png)
 *Left: The original problem, Right: Solved*
 
-## :rainbow: If you're curious...
+## Creative Issues
+
+After mostly populating the main area, I realised that the terrain looked very awkward. While I wanted the player to focus on getting to the main area, I could not overlook the background looking incomplete. I think this became a problem because I mostly referenced 3D animations for my environment, where everything is consciously presented in a constricted 2D frame. But since the game is in a 360 space, I needed to take care of the scene that is on the outside of my frame of focus.
+
+Throughout the project I needed to do quite a lot of distancing, because I could be staring at my scene for period of time and had no inspiration and direction to move forward. By going for walks and constantly looking for other works to reference on Behance and Pinterest, the ideas eventually came to me. But I was definitely frustrated at myself sometimes because of this.
 
 ## General Reflections
 
@@ -61,3 +65,7 @@ Sound Effects:
 Model Credits:
 
 [Here]() is the link to download the game.
+
+## :rainbow: If you're curious...
+
+I thought I could end it off by explaining some of the more intricate details behind the project. 
