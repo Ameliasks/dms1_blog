@@ -28,6 +28,7 @@ The idea for players to find the 3 children that I hid in my scene was an idea t
 My first idea was to try a UI pop-up that appears when the player spawns into the game. But after trying out a few methods shown in tutorials, I could not achieve what I wanted. Thus I decided to make it a physical game object instead.
 
 ![photo 1](photos/64.png)
+*Top Left: First design, Top Right: Developed Design, Bottom: Game View*
 
 I played around with the fonts and colours to find the correct contrast and good readibility. I think that this sign serves my intention well so I'm satisfied with it as an alternative!
 
@@ -39,6 +40,8 @@ Another odd issue I faced was that a model that I made in Blender had faces that
 
 ![photo 1](photos/65.png)
 *Left: The original problem, Right: Solved*
+
+## :rainbow: If you're curious...
 
 ## General Reflections
 

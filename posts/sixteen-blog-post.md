@@ -12,11 +12,11 @@ allow_math: true
 
 At this stage, I am about 50% done with building the environment. While I am progressing, I realised that the assets I planned in the initial sketch was insufficient to fill this 3D space, and I had to come up with other things I could add to populate the environment, and also give it more detail. Additionally, navigation was mentioned in class so it occured to me that I needed to think about how I might assist players in finding their way around the environment. 
 
-## : Navigation
+## Navigation
 
 Up till the entrance of the second area, it is a straightforward path, but I would like players to explore the second area as freely as they wish, with the freedom of a child, so there will be many alternative paths and the player can make their own route decisions. That being said, I need to test if the 'jump' is high enough, and if not, tweak the code for it to be so that the players would be able to climb the steps as easily as possible. And make sure that there are clear paths to allow smoother navigation, and perhaps even add some signs to suggest possible routes for the players.
 
-## : Framing & Point of Prospect
+## Framing & Point of Prospect
 
 The point of my environment I have decided to frame is the entrance of the second area. After entering through the first area that feels unassuming and maybe a little dull, that players would be surprised as they enter the second area, highlighting the positive transformation of the narrative. 
 
@@ -24,5 +24,5 @@ Initially, the whole environment was on a flat plain and the 2 areas set apart f
 
 These are my references for framing and point of prospect. I also studied them when I was trying to add details into the environment.
 
-## : Animating Door 
+## Animating Door 
 Using [this](https://youtu.be/K9jnIPnsQ_w?si=B5mNdE4n_dlNi6p8) tutorial, I managed create an animation for my door to open as the player approaches it. I did encounter some problems in between especially within the Unity interface when I was keyframing the animation, but thankfully I managed to resolve it.
