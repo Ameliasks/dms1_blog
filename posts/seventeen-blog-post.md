@@ -51,6 +51,14 @@ Throughout the project I needed to do quite a lot of distancing, because I could
 
 This assignment and its accompanying modules was my introduction to Unity. As someone who doesn't play video games, I definitely felt out of my depth the past couple of weeks. In an attempt to make up for this, I spent a lot of time observing 3D forms on Pinterest, watching Unity and Blender tutorials and experimenting all sorts of things in Unity. I also felt a wave of accomplishment and relief as I watched people enjoying my game. I will definitely work on more 3D projects in the future!
 
+# :cloud: A Place That Lives In My Memory
+
+The title I have chosen for this project is <b>*A Place That Lives In My Memory*</b>. 
+
+<blockquote>“The next best thing to the enjoyment of a good time is the recollection of it.” –James Lendall Basford</blockquote> 
+
+My childhood that was spent with my siblings is a time I can never physically revisit again. But the memories forever live in my mind and soul, and this environment is a manifestation of the love and happiness of a time that I hope I will never forget. Even as the three of us continue to grow older and life inevitably changes us as people, I'm glad that I get to keep these memories and look back on them fondly.
+
 ## Credits
 
 Audio Credits
@@ -68,4 +76,4 @@ Model Credits:
 
 ## :rainbow: If you're curious...
 
-I thought I could end it off by explaining some of the more intricate details behind the project. 
+I thought I could end off this blog post by explaining some of the more intricate details behind the project. 
