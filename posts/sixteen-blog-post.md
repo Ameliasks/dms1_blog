@@ -26,3 +26,5 @@ These are my references for framing and point of prospect. I also studied them w
 
 ## Animating Door 
 Using [this](https://youtu.be/K9jnIPnsQ_w?si=B5mNdE4n_dlNi6p8) tutorial, I managed create an animation for my door to open as the player approaches it. I did encounter some problems in between especially within the Unity interface when I was keyframing the animation, but thankfully I managed to resolve it.
+
+## Modelling My Own Assets

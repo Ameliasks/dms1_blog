@@ -64,13 +64,43 @@ My childhood that was spent with my siblings is a time I can never physically re
 Audio Credits
 
 Soundtrack:
-Sleeping Sheep by The Green Orbs via Youtube Audio Library
+Dream Escape By The Tides via Youtube Audio Library
 Rainbow Forest by Quincas Moreira via Youtube Audio Library
 
 Sound Effects:
 
 
 Model Credits:
+Messy Bed by thethieme
+Chisley Club -RRES by Crane
+TV by Shedmon
+Lego Bricks by BlackCube
+Sony Remote Tv by Admin Rezaei
+Technics CD Player by ustoopia
+Loshadka. Rocking horse wooden toy by timmoffey
+Baby Chair by fabbear
+Laila Dining Chair by mujbrah
+Teddy bears by hectopod
+Bedside Table by jspurlin
+Beach Ball by Tommyleeney
+Lego Plane by InterrMyl
+Lego Plane by Luuk
+MULA Maze (ikea toy)
+Children Stool by JungleBird
+Slinky Toy by Studio Lab
+Green Crayon by Magnetron
+Lego Man by McManus Media
+Low-poly Jigsaw Puzzle Pieces by Gahar.Munir
+Play-Doh clay compound by vaedskalw
+Door with frame by witnessk
+3 coloured dice by LukeModels75
+Underwater Scene Version 2 by Vighnesh Baidu
+3D Cartoon Balloons by Sufi_Artist
+Uno Cards 3D by alia.wicaksans
+Jenna Wooden Blocks Game
+Gary (SpongeBob) by Yang Designs
+
+Via SketchFab
 
 [Here]() is the link to download the game.
 
