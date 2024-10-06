@@ -32,9 +32,21 @@ My first idea was to try a UI pop-up that appears when the player spawns into th
 
 I played around with the fonts and colours to find the correct contrast and good readibility. I think that this sign serves my intention well so I'm satisfied with it as an alternative!
 
+Additionally, I also wanted a pop-up to appear whenever the player found a child, since I observed that my testplayers showed a little hesitancy if they had indeed found a child, so this pop up will help to reaffirm and reward the player for successfully finding the 3 children.
+
+Unfortunately, I struggled a lot figuring out the logic for this interaction. I watched and tried almost 10 different tutorials, and somehow my scripts kept getting met with errors, which was very frustrating. In the end, I found [this tutorial](https://youtu.be/p1ZgS2z-LTs?si=rrCQPuub6IsY0k0r) that demostrated a trigger script that used UnityEngine events to link colliders to trigger gameobject events. 
+
+Using a canvas that I had previously created for a previous *failed* tutorial, I created 3 separate physical pop-ups and box colliders in the worldview on top of the individual children and linked the trigger script to each of the colliders, and that allowed me to disable and set active the pop-up on trigger enter and on trigger exit. I used this same trigger script for my sound effects, so that they only play when the player enters specific area. This method was also used for a summit congratulatory message at the highest point of the environment.
+
+Although I had initially hoped to be able to accomplish something with the keycodes for the interactivity, I still am satisfied with what I managed to achieve in the end, after the many struggles.
+
+## Breadcrumbing
+
+As I briefly mentioned above, I could tell that my playtesters were unsure what the children looked like. So I decided to breadcrumb the children into the diegetic world by displaying portraits of them. 1 in the first area, and all 3 in the living area. I think it would be fun if the player could discover these breadcrumbs before finding the children.
+
 ## Audio
 
-I learnt that assigning the audio source to the right game object was crucial. Because the main soundtrack overpowered all the other sound effects I added into the scene, I needed to change the audio source to one slightly further away from the other sources while still covering the same maximum distance, so that the sound effects can be heard clearer.
+I learnt that assigning the audio source to the right game object was crucial. Because the main soundtrack overpowered all the other sound effects I added into the scene, I needed to change the audio source to one slightly further away from the other sources while still covering the same maximum distance, so that the sound effects can be heard clearer. I also made use of volume and priority in the audio source dialog to made the soundtracks softer and the sound effects more pronounced. I did proccess all the sound effects through Adobe Audition, cropping, normalizing and raising the volume for all the tracks since the original files would have been too soft to be heard in the game.
 
 ## Technical Issues 
 

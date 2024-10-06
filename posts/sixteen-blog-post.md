@@ -25,6 +25,6 @@ Initially, the whole environment was on a flat plain and the 2 areas set apart f
 These are my references for framing and point of prospect. I also studied them when I was trying to add details into the environment.
 
 ## Animating Door 
-Using [this](https://youtu.be/K9jnIPnsQ_w?si=B5mNdE4n_dlNi6p8) tutorial, I managed create an animation for my door to open as the player approaches it. I did encounter some problems in between especially within the Unity interface when I was keyframing the animation, but thankfully I managed to resolve it.
+Using [this](https://youtu.be/K9jnIPnsQ_w?si=B5mNdE4n_dlNi6p8) tutorial, I managed create an animation for my door to open as the player approaches it. I did encounter some problems in between especially within the Unity interface when I was keyframing the animation, but thankfully I managed to resolve it. I then referred to [this other](https://youtu.be/6O-YypSr6fM?si=27CFsdlpylyflMbe) tutorial to add the audio of the door opening and closing.
 
 ## Modelling My Own Assets
