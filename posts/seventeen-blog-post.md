@@ -36,6 +36,9 @@ Additionally, I also wanted a pop-up to appear whenever the player found a child
 
 Unfortunately, I struggled a lot figuring out the logic for this interaction. I watched and tried almost 10 different tutorials, and somehow my scripts kept getting met with errors, which was very frustrating. In the end, I found [this tutorial](https://youtu.be/p1ZgS2z-LTs?si=rrCQPuub6IsY0k0r) that demostrated a trigger script that used UnityEngine events to link colliders to trigger gameobject events. 
 
+![photo 1](photos/66.png)
+*Editing pop-up in scene*
+
 Using a canvas that I had previously created for a previous *failed* tutorial, I created 3 separate physical pop-ups and box colliders in the worldview on top of the individual children and linked the trigger script to each of the colliders, and that allowed me to disable and set active the pop-up on trigger enter and on trigger exit. I used this same trigger script for my sound effects, so that they only play when the player enters specific area. This method was also used for a summit congratulatory message at the highest point of the environment.
 
 Although I had initially hoped to be able to accomplish something with the keycodes for the interactivity, I still am satisfied with what I managed to achieve in the end, after the many struggles.
@@ -61,7 +64,9 @@ Another odd issue I faced was that a model that I made in Blender had faces that
 
 After mostly populating the main area, I realised that the terrain looked very awkward. While I wanted the player to focus on getting to the main area, I could not overlook the background looking incomplete. I think this became a problem because I mostly referenced 3D animations for my environment, where everything is consciously presented in a constricted 2D frame. But since the game is in a 360 space, I needed to take care of the scene that is on the outside of my frame of focus.
 
-Throughout the project I needed to do quite a lot of distancing, because I could be staring at my scene for period of time and had no inspiration and direction to move forward. By going for walks and constantly looking for other works to reference on Behance and Pinterest, the ideas eventually came to me. But I was definitely frustrated at myself sometimes because of this.
+Throughout the project I needed to do quite a lot of distancing, because I could be staring at my scene for period of time and had no inspiration and direction to move forward. By going for walks and constantly looking for other works to reference on Behance and Pinterest, the ideas eventually came to me. 
+
+
 
 ## General Reflections
 
@@ -123,6 +128,7 @@ Underwater Scene Version 2 by Vighnesh Baidu
 Uno Cards 3D by alia.wicaksans
 Jenna Wooden Blocks Game
 Gary (SpongeBob) by Yang Designs
+Paper Plane by neutralize
 
 Via SketchFab
 
