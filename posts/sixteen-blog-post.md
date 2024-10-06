@@ -20,7 +20,7 @@ Up till the entrance of the second area, it is a straightforward path, but I wou
 
 The point of my environment I have decided to frame is the entrance of the second area. After entering through the first area that feels unassuming and maybe a little dull, that players would be surprised as they enter the second area, highlighting the positive transformation of the narrative. 
 
-Initially, the whole environment was on a flat plain and the 2 areas set apart from each other. But as I observed the works of my peers and the works of other 3D artists on Pinterest and Behance, I found my flat terrain to be lacking in affect for the transition. So ameliorate this, I made a couple of changes. These changes included elevating the second rea, so that it looks more grand, and the player has to 'look up' to see it. It also helps to build the anticipation of walking towards the second area. Additionally, I added a welcome sign and other decorative elements like arcs, lights and arrows to the bridge, to increase the visual interest of the frame. I also modelled a grantry, to make the player feel like they are entering a new area that is like a theme park.
+Initially, the whole environment was on a flat plane and the 2 areas set apart from each other. But as I observed the works of my peers and the works of other 3D artists on Pinterest and Behance, I found my flat terrain to be lacking in affect for the transition. So ameliorate this, I made a couple of changes. These changes included elevating the second rea, so that it looks more grand, and the player has to 'look up' to see it. It also helps to build the anticipation of walking towards the second area. Additionally, I added a welcome sign and other decorative elements like arcs, lights and arrows to the bridge, to increase the visual interest of the frame. I also modelled a grantry, to make the player feel like they are entering a new area that is like a theme park.
 
 These are my references for framing and point of prospect. I also studied them when I was trying to add details into the environment.
 
@@ -28,3 +28,9 @@ These are my references for framing and point of prospect. I also studied them w
 Using [this](https://youtu.be/K9jnIPnsQ_w?si=B5mNdE4n_dlNi6p8) tutorial, I managed create an animation for my door to open as the player approaches it. I did encounter some problems in between especially within the Unity interface when I was keyframing the animation, but thankfully I managed to resolve it. I then referred to [this other](https://youtu.be/6O-YypSr6fM?si=27CFsdlpylyflMbe) tutorial to add the audio of the door opening and closing.
 
 ## Modelling My Own Assets
+
+Because I want going for a stylistic, semi-realistic approach, I was not able to find all my ideal models on SketchFab. Hence, I decided to model some of those that weren't too complicated on Blender and imported them into Unity as .obj files. This gave me good control over materials as well, since the model is fully customisable.
+
+![photo 1](photos/67.png)
+*Screenshot of my models*
+
