@@ -14,7 +14,7 @@ allow_math: true
 
 We used Google maps to get the location and floor that Muji was on while we were in class, and the walked over to Emporium. Upon going up the escalator at the entrance, we immediately spotted the store.
 
-## Classroom Activity
+# Classroom Activity
 
 ![photo 1](photos/36.png)
 ![photo 1](photos/37.png)
