@@ -10,7 +10,7 @@ allow_math: true
 
 ![photo 1](photos/34.jpg)
 ![photo 1](photos/35.jpg)
-*Kemley, Spike, Arielle, Alydin and Me*
+*Kemley, Spike, Arielle, Aydin and Me*
 
 We used Google maps to get the location and floor that Muji was on while we were in class, and the walked over to Emporium. Upon going up the escalator at the entrance, we immediately spotted the store.
 
