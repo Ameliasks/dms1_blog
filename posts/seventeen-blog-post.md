@@ -148,8 +148,8 @@ pinwheel by Mylom
 
 Via SketchFab
 
-[Here]() is the link to download the game!
-[Here]() is the screen recording of playthrough!
+[Here](https://drive.google.com/file/d/1mBetBblsI2pQtUSeMLZLfPaYvIpX1m4j/view?usp=sharing) is the link to download the game!
+[Here](https://youtu.be/65zTYg8dmEE) is the screen recording of playthrough!
 [Here](https://youtu.be/uUgrHdmsM8Y) is the play test that was done with Arielle!
 
 ## :rainbow: Renders!
