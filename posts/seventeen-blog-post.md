@@ -166,9 +166,13 @@ Here is the
 ## :rainbow: Renders!
 
 ![photo 1](photos/R1.png)
+<br>
 ![photo 1](photos/R2.png)
+<br>
 ![photo 1](photos/R3.png)
+<br>
 ![photo 1](photos/R4.png)
+<br>
 ![photo 1](photos/R5.png)
 
 Thank You
