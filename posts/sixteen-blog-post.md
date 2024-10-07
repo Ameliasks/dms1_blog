@@ -26,10 +26,5 @@ Initially, the whole environment was on a flat plane and the 2 areas set apart f
 ## Animating Door 
 Using [this](https://youtu.be/K9jnIPnsQ_w?si=B5mNdE4n_dlNi6p8) tutorial, I managed create an animation for my door to open as the player approaches it. I did encounter some problems in between especially within the Unity interface when I was keyframing the animation, but thankfully I managed to resolve it. I then referred to [this other](https://youtu.be/6O-YypSr6fM?si=27CFsdlpylyflMbe) tutorial to add the audio of the door opening and closing.
 
-## Modelling My Own Assets
 
-Because I want going for a stylistic, semi-realistic approach, I was not able to find all my ideal models on SketchFab. Hence, I decided to model some of those that weren't too complicated on Blender and imported them into Unity as .obj files. This gave me good control over materials as well, since the model is fully customisable.
-
-![photo 1](photos/67.png)
-*Screenshot of my models*
 
