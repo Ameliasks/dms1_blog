@@ -161,7 +161,7 @@ Via SketchFab
 Here is the
 [download link](https://drive.google.com/file/d/1mBetBblsI2pQtUSeMLZLfPaYvIpX1m4j/view?usp=sharing),
 [screen recording of playthrough](https://youtu.be/65zTYg8dmEE) &
-[platest doe with Arielle](https://youtu.be/uUgrHdmsM8Y)!
+[playtest done with Arielle](https://youtu.be/uUgrHdmsM8Y)!
 
 ## :rainbow: Renders!
 
