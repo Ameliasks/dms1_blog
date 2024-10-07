@@ -106,59 +106,62 @@ This assignment and its accompanying modules was my introduction to Unity. As so
 Audio Credits
 
 Soundtrack:
+
 Dream Escape By The Tides via Youtube Audio Library
 Rainbow Forest by Quincas Moreira via Youtube Audio Library
 
 Sound Effects:
-Indoor Nice Fish Tank Ambiance by Pixabay
-Rumbling Wind by Youtube Audio Library
-Turnstil rx by Pixabay
-Music Box by Pixabay
-Open and Closed Door by Jurij via Pixabay
-Iten Pick Up by Pixabay
-piglvelwin2 by Pixabay
-Arcade UI 16 by floraphonic via Pixabay
+
+- Indoor Nice Fish Tank Ambiance by Pixabay
+- Rumbling Wind by Youtube Audio Library
+- Turnstil rx by Pixabay
+- Music Box by Pixabay
+- Open and Closed Door by Jurij via Pixabay
+- Iten Pick Up by Pixabay
+- piglvelwin2 by Pixabay
+- Arcade UI 16 by floraphonic via Pixabay
 
 
 Model Credits
 
-Messy Bed by thethieme
-Chisley Club -RRES by Crane
-TV by Shedmon
-Lego Bricks by BlackCube
-Sony Remote Tv by Admin Rezaei
-Technics CD Player by ustoopia
-Loshadka. Rocking horse wooden toy by timmoffey
-Baby Chair by fabbear
-Laila Dining Chair by mujbrah
-Teddy bears by hectopod
-Bedside Table by jspurlin
-Beach Ball by Tommyleeney
-Lego Plane by InterrMyl
-Lego Plane by Luuk
-MULA Maze (ikea toy)
-Children Stool by JungleBird
-Slinky Toy by Studio Lab
-Green Crayon by Magnetron
-Lego Man by McManus Media
-Low-poly Jigsaw Puzzle Pieces by Gahar.Munir
-Play-Doh clay compound by vaedskalw
-Door with frame by witnessk
-3 coloured dice by LukeModels75
-Underwater Scene Version 2 by Vighnesh Baidu
-3D Cartoon Balloons by Sufi_Artist
-Uno Cards 3D by alia.wicaksans
-Jenna Wooden Blocks Game
-Gary (SpongeBob) by Yang Designs
-Spongebob by SMF Friends Fan 2024 Youtube Live
-Paper Plane by neutralize
-pinwheel by Mylom
+- Messy Bed by thethieme
+- Chisley Club -RRES by Crane
+- TV by Shedmon
+- Lego Bricks by BlackCube
+- Sony Remote Tv by Admin Rezaei
+- Technics CD Player by ustoopia
+- Loshadka. Rocking horse wooden toy by timmoffey
+- Baby Chair by fabbear
+- Laila Dining Chair by mujbrah
+- Teddy bears by hectopod
+- Bedside Table by jspurlin
+- Beach Ball by Tommyleeney
+- Lego Plane by InterrMyl
+- Lego Plane by Luuk
+- MULA Maze (ikea toy)
+- Children Stool by JungleBird
+- Slinky Toy by Studio Lab
+- Green Crayon by Magnetron
+- Lego Man by McManus Media
+- Low-poly Jigsaw Puzzle Pieces by Gahar.Munir
+- Play-Doh clay compound by vaedskalw
+- Door with frame by witnessk
+- 3 coloured dice by LukeModels75
+- Underwater Scene Version 2 by Vighnesh Baidu
+- 3D Cartoon Balloons by Sufi_Artist
+- Uno Cards 3D by alia.wicaksans
+- Jenna Wooden Blocks Game
+- Gary (SpongeBob) by Yang Designs
+- Spongebob by SMF Friends Fan 2024 Youtube Live
+- Paper Plane by neutralize
+- pinwheel by Mylom
 
 Via SketchFab
 
-[Here](https://drive.google.com/file/d/1mBetBblsI2pQtUSeMLZLfPaYvIpX1m4j/view?usp=sharing) is the link to download the game!
-[Here](https://youtu.be/65zTYg8dmEE) is the screen recording of the playthrough!
-[Here](https://youtu.be/uUgrHdmsM8Y) is the play test that was done with Arielle!
+Here is the
+[download link](https://drive.google.com/file/d/1mBetBblsI2pQtUSeMLZLfPaYvIpX1m4j/view?usp=sharing),
+[screen recording of playthrough](https://youtu.be/65zTYg8dmEE) &
+[platest doe with Arielle](https://youtu.be/uUgrHdmsM8Y)!
 
 ## :rainbow: Renders!
 
@@ -168,5 +171,6 @@ Via SketchFab
 ![photo 1](photos/R4.png)
 ![photo 1](photos/R5.png)
 
+Thank You
 
 
