@@ -90,7 +90,8 @@ I made use of the post-processing effect to make my scene look slightly darker, 
 
 The title I have chosen for this project is <b>*A Place That Lives In My Memory*</b>. 
 
-<blockquote>“The next best thing to the enjoyment of a good time is the recollection of it.” –James Lendall Basford</blockquote> 
+<blockquote>“The next best thing to the enjoyment of a good time is the recollection of it.” 
+–James Lendall Basford</blockquote> 
 
 My childhood that was spent with my siblings is a time I can never physically revisit again. But the memories forever live in my mind and soul, and this environment is a manifestation of the love and happiness of a time that I hope I will never forget. Even as the three of us continue to grow older and life inevitably changes us as people, I'm glad that I get to keep these memories and look back on them fondly.
 
