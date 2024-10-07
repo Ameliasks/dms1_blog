@@ -29,7 +29,7 @@ Next, the positions of the planets. I needed to arrange the planets in such a wa
 ![photo 1](photos/32.jpg)
 *Brainstorm session*
 
-Upon reflecting on the most transformative moments of my life, these are the ones I have idenitfied to be in the respective categories.
+Upon reflecting on the most transformative moments of my life, these are the ones I have identified to be in the respective categories.
 
 Big change - When my younger twin siblings came into my life when I was 5. The transition from a pampered single child to an eldest sister came with many responsibilities and lessons, but it was through my siblings that I gained a second childhood- one that I can remember more vividly and fondly than the first. 
 
@@ -44,6 +44,7 @@ This was the very first idea that came to mind, and I think that further shows h
 
 ![photo 1](photos/33.jpg)
 *Main list of assets required for the project and key moments of journey*
+
 Nostalgia is the main emotion I want to express in my project. I tried to recall as many items and toys I could from my childhood that I had an emotional connection to. I will try to implement as many of these items as possible.
 
 ![photo 1](photos/38.jpg)
@@ -65,3 +66,5 @@ I was inspired by the lighting of the environments. Although the colours are not
 *Reference for second area*
 
 I was inspired by the different podiums in this scene, and it gave me the idea to categorise the objects from the list I prepared, by grouping them on the different podiums.
+
+For the sound design, I think the first area will go well will a soft and slightly sombre soundtrack, and the second area will go well with a bright and cheery soundtrack, akin to the soundtrack of Mario Kart and other games that appeal to young children.
