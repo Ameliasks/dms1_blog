@@ -32,7 +32,7 @@ After looking at the draft, I thought that the entrance into the second scene wa
 The first thing I rectified was the terrain. I didn't like how the player can see the end of the terrain at their vantage point as I felt it made th environment less immersive. I tried experimenting with fog to blur out the sides of the terrain, but decided against it in the end as it was affecting the wrong parts of the environment. I decided to paint/set height the terrain instead, creating low-poly mountains that would enclose the environement, and it did the job of concealing the ends of the terrain. I then added arrows that would be placed across the whole bridge, to make the path feel more appealing. Lastly, I added details such as the barrier (since I had a play tester try to go off the bridge), trees, origami cranes and a sign to decorate the terrain so it won't seem as plain. I then applied purple materials of different hue and saturation values to give the scene a pop of colour and contrast.
 
 ![photo 1](photos/68.png)
-*My progress*
+*Development*
 
 
 ## Gamification
@@ -56,6 +56,13 @@ Unfortunately, I struggled a lot figuring out the logic for this interaction. I 
 Using a canvas that I had previously created for a previous *failed* tutorial, I created 3 separate physical pop-ups and box colliders in the worldview on top of the individual children and linked the trigger script to each of the colliders, and that allowed me to disable and set active the pop-up on trigger enter and on trigger exit. I used this same trigger script for my sound effects, so that they only play when the player enters specific area. This method was also used for a summit congratulatory message at the highest point of the environment.
 
 Although I had initially hoped to be able to accomplish something with the keycodes for the interactivity, I still am satisfied with what I managed to achieve in the end, after the many struggles.
+
+## Other Consideration
+
+![photo 1](photos/72.png)
+*Sign*
+
+There is a part of the environment where I specially designed the platform steps to be a little challenging to climb, and during the playtesting, after the player had fallen off, they were lost as to how to proceed. Thus at the point where they are likely to fall to, I created an arrow sign to guide them to a long ladder that would take them back to the platform steps.
 
 ## Breadcrumbing
 
@@ -160,7 +167,7 @@ Model Credits
 Via SketchFab
 
 Here is the
-[download link](https://drive.google.com/file/d/1mBetBblsI2pQtUSeMLZLfPaYvIpX1m4j/view?usp=sharing),
+[download link](https://drive.google.com/drive/folders/1u7b6HWN1HwuZbd7wuCjIt32gv2ymxaoU?usp=drive_link),
 [screen recording of playthrough](https://youtu.be/65zTYg8dmEE) &
 [playtest done with Arielle](https://youtu.be/uUgrHdmsM8Y)!
 
