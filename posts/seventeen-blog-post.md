@@ -107,8 +107,8 @@ Audio Credits
 
 Soundtrack:
 
-Dream Escape By The Tides via Youtube Audio Library
-Rainbow Forest by Quincas Moreira via Youtube Audio Library
+- Dream Escape By The Tides via Youtube Audio Library
+- Rainbow Forest by Quincas Moreira via Youtube Audio Library
 
 Sound Effects:
 
