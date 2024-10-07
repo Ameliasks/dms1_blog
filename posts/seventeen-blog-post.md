@@ -22,7 +22,22 @@ Additonally, I did spot some mistakes and technical errors during the playtestin
 
 While playing the games of my classmates, I was amazed at how technically proficient and creative they were. I learnt a lot and was inspired to improve my game.
 
+## Improving Visuals
+
+After looking at the draft, I thought that the entrance into the second scene was too dull and unexciting, I decided to continue gathering references and studying them to improve the visuals of this entrance. These references have a sunset/ purple hue lighting that also used emissive and metallic materials as accent details, which is what I am going for. I also aimed to replicate the dreamy effect, which is done partly through colour but also through using the bloom effect in the post-processing layer.
+
+![photo 1](photos/69.png)
+*My references*
+
+
+
+![photo 1](photos/68.png)
+*My progress*
+
+
+
 ## Gamification
+
 The idea for players to find the 3 children that I hid in my scene was an idea that struck rather randomly the day before playtesting, so I gave the instructions to my playtesters verbally. I am glad that they seemed to enjoy the little 'game' I included in my environment, so I knew I had to develop a way to display this information within my scene.
 
 My first idea was to try a UI pop-up that appears when the player spawns into the game. But after trying out a few methods shown in tutorials, I could not achieve what I wanted. Thus I decided to make it a physical game object instead.
@@ -65,7 +80,6 @@ Another odd issue I faced was that a model that I made in Blender had faces that
 After mostly populating the main area, I realised that the terrain looked very awkward. While I wanted the player to focus on getting to the main area, I could not overlook the background looking incomplete. I think this became a problem because I mostly referenced 3D animations for my environment, where everything is consciously presented in a constricted 2D frame. But since the game is in a 360 space, I needed to take care of the scene that is on the outside of my frame of focus.
 
 Throughout the project I needed to do quite a lot of distancing, because I could be staring at my scene for period of time and had no inspiration and direction to move forward. By going for walks and constantly looking for other works to reference on Behance and Pinterest, the ideas eventually came to me. 
-
 
 
 ## General Reflections
