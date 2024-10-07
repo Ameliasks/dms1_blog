@@ -149,6 +149,6 @@ Via SketchFab
 
 [Here]() is the link to download the game.
 
-## :rainbow: If you're curious...
+## :rainbow: Renders!
 
-I thought I could end off this blog post by explaining some of the more intricate details behind the project. 
+
