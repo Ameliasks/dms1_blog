@@ -18,9 +18,9 @@ Although my environment was not completed, I still thought it would be good to g
 ![photo 1](photos/63.png)
 *Results*
 
-Additonally, I did spot some mistakes and technical errors during the playtesting, such as the lack of a collider for the tallest tower, so players got confused when they went through the wall while trying to climb the stairs. I also realised that some assets looked misaligned so I knew I had to rectify that as well.
+I did spot some mistakes and technical errors during the playtesting, such as the lack of a collider for the tallest tower, so players got confused when they went through the wall while trying to climb the stairs. I also realised that some assets looked misaligned so I knew I had to rectify that as well. But I was encouraged that my playtesters felt the emotions I was going for in my project, and that there were landmarks and objects that they could remember from the environment! 
 
-While playing the games of my classmates, I was amazed at how technically proficient and creative they were. I learnt a lot and was inspired to improve my game.
+While playing the games of my classmates, I was amazed at how technically proficient and creative they were. I learnt a lot and was inspired to improve my environment.
 
 ## Improving Visuals
 
@@ -29,11 +29,10 @@ After looking at the draft, I thought that the entrance into the second scene wa
 ![photo 1](photos/69.png)
 *My references*
 
-
+The first thing I rectified was the terrain. I didn't like how the player can see the end of the terrain at their vantage point as I felt it made th environment less immersive. I tried experimenting with fog to blur out the sides of the terrain, but decided against it in the end as it was affecting the wrong parts of the environment. I decided to paint/set height the terrain instead, creating low-poly mountains that would enclose the environement, and it did the job of concealing the ends of the terrain. I then added arrows that would be placed across the whole bridge, to make the path feel more appealing. Lastly, I added details such as the barrier (since I had a play tester try to go off the bridge), trees, origami cranes and a sign to decorate the terrain so it won't seem as plain. I then applied purple materials of different hue and saturation values to give the scene a pop of colour and contrast.
 
 ![photo 1](photos/68.png)
 *My progress*
-
 
 
 ## Gamification
@@ -64,7 +63,7 @@ As I briefly mentioned above, I could tell that my playtesters were unsure what 
 
 ## Audio
 
-I learnt that assigning the audio source to the right game object was crucial. Because the main soundtrack overpowered all the other sound effects I added into the scene, I needed to change the audio source to one slightly further away from the other sources while still covering the same maximum distance, so that the sound effects can be heard clearer. I also made use of volume and priority in the audio source dialog to made the soundtracks softer and the sound effects more pronounced. I did proccess all the sound effects through Adobe Audition, cropping, normalizing and raising the volume for all the tracks since the original files would have been too soft to be heard in the game.
+I learnt that assigning the audio source to the right game object was crucial. Because the main soundtrack overpowered all the other sound effects I added into the scene, I needed to change the audio source to one slightly further away from the other sources while still covering the same maximum distance, so that the sound effects can be heard clearer. I also made use of volume and priority in the audio source dialog to made the soundtracks softer and the sound effects more pronounced. I proccessed all the sound effects through Adobe Audition, cropping, normalizing and raising the volume for all the tracks since the original files would have been too soft to be heard in the game.
 
 ## Technical Issues 
 
@@ -81,7 +80,13 @@ After mostly populating the main area, I realised that the terrain looked very a
 
 Throughout the project I needed to do quite a lot of distancing, because I could be staring at my scene for period of time and had no inspiration and direction to move forward. By going for walks and constantly looking for other works to reference on Behance and Pinterest, the ideas eventually came to me. 
 
-# :cloud: A Place That Lives In My Memory
+![photo 1](photos/70.png)
+*Left: First playtesting screenshots, Right: Final playtesting screenshots*
+
+I made use of the post-processing effect to make my scene look slightly darker, more vibrant and more dreamy.
+
+
+# :rainbow: A Place That Lives In My Memory
 
 The title I have chosen for this project is <b>*A Place That Lives In My Memory*</b>. 
 
@@ -89,9 +94,12 @@ The title I have chosen for this project is <b>*A Place That Lives In My Memory*
 
 My childhood that was spent with my siblings is a time I can never physically revisit again. But the memories forever live in my mind and soul, and this environment is a manifestation of the love and happiness of a time that I hope I will never forget. Even as the three of us continue to grow older and life inevitably changes us as people, I'm glad that I get to keep these memories and look back on them fondly.
 
+![photo 1](photos/71.png)
+*Final Wireframe*
+
 ## General Reflections
 
-This assignment and its accompanying modules was my introduction to Unity. As someone who doesn't play video games, I felt slightly out of my depth the past couple of weeks. To make up for this, I spent a lot of time observing 3D forms on Pinterest, watching Unity and Blender tutorials and experimenting all sorts of things in Unity. But at the end, I felt a great sense of accomplishment of creating my first environment and get to watch people enjoy exploring it, and I'm glad that I challenged myself.
+This assignment and its accompanying modules was my introduction to Unity. As someone who doesn't play video games, I felt slightly out of my depth the past couple of weeks. To make up for this, I spent a lot of time observing 3D forms on Pinterest, watching Unity and Blender tutorials and experimenting all sorts of things in Unity. But at the end, I felt a great sense of accomplishment of creating my first environment and get to watch people enjoy exploring it, and I'm glad that I challenged myself to create what I have created.
 
 ## Credits
 
@@ -149,9 +157,16 @@ pinwheel by Mylom
 Via SketchFab
 
 [Here](https://drive.google.com/file/d/1mBetBblsI2pQtUSeMLZLfPaYvIpX1m4j/view?usp=sharing) is the link to download the game!
-[Here](https://youtu.be/65zTYg8dmEE) is the screen recording of playthrough!
+[Here](https://youtu.be/65zTYg8dmEE) is the screen recording of the playthrough!
 [Here](https://youtu.be/uUgrHdmsM8Y) is the play test that was done with Arielle!
 
 ## :rainbow: Renders!
+
+![photo 1](photos/R1.png)
+![photo 1](photos/R2.png)
+![photo 1](photos/R3.png)
+![photo 1](photos/R4.png)
+![photo 1](photos/R5.png)
+
 
 
