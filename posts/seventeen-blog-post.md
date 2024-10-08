@@ -29,7 +29,7 @@ After looking at the draft, I thought that the entrance into the second scene wa
 ![photo 1](photos/69.png)
 *My references*
 
-The first thing I rectified was the terrain. I didn't like how the player can see the end of the terrain at their vantage point as I felt it made th environment less immersive. I tried experimenting with fog to blur out the sides of the terrain, but decided against it in the end as it was affecting the wrong parts of the environment. I decided to paint/set height the terrain instead, creating low-poly mountains that would enclose the environement, and it did the job of concealing the ends of the terrain. I then added arrows that would be placed across the whole bridge, to make the path feel more appealing. Lastly, I added details such as the barrier (since I had a play tester try to go off the bridge), trees, origami cranes and a sign to decorate the terrain so it won't seem as plain. I then applied purple materials of different hue and saturation values to give the scene a pop of colour and contrast.
+The first thing I rectified was the terrain. I didn't like how the player can see the end of the terrain at their vantage point and it made the environment less immersive. I tried experimenting with fog to blur out the sides of the terrain, but decided against it in the end as it was affecting the wrong parts of the environment. I decided to paint/set height the terrain instead, creating low-poly mountains that would enclose the environement, and it did the job of concealing the ends of the terrain. I then added arrows that would be placed across the whole bridge, to make the path feel more appealing. Lastly, I added details such as the barrier (since I had a play tester try to go off the bridge), trees, origami cranes and a sign to decorate the terrain so it won't seem as plain. I then applied purple materials of different hue and saturation values to give the scene a pop of colour and contrast.
 
 ![photo 1](photos/68.png)
 *Development*
@@ -83,7 +83,7 @@ Another odd issue I faced was that a model that I made in Blender had faces that
 
 ## Creative Issues
 
-After mostly populating the main area, I realised that the terrain looked very awkward. While I wanted the player to focus on getting to the main area, I could not overlook the background looking incomplete. I think this became a problem because I mostly referenced 3D animations for my environment, where everything is consciously presented in a constricted 2D frame. But since the game is in a 360 space, I needed to take care of the scene that is on the outside of my frame of focus.
+After mostly populating the main area, I realised that the terrain looked very awkward. While I wanted the player to focus on getting to the main area, I could not overlook the background looking incomplete. I think this became a problem because I mostly referenced 3D stills and motion graphics for my environment, where everything is consciously presented in a constricted 2D frame. But since the game is in a 360 space, I needed to take care of the scene that is on the outside of my frame of focus.
 
 Throughout the project I needed to do quite a lot of distancing, because I could be staring at my scene for period of time and had no inspiration and direction to move forward. By going for walks and constantly looking for other works to reference on Behance and Pinterest, the ideas eventually came to me. 
 
