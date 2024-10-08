@@ -50,19 +50,19 @@ The stylisation of the assets also applies to the scale. All the objects are not
 
 ## Some significant stories ~
 
-I thought that this might be a good point to cover some the meanings and significance of some of the assets in my second area of the environment.
+I thought that this might be a good point to cover a few of the meanings and significance of the assets in my second area of the environment.
 
 <b>The moon and star lights</b>
 - These were the lights that we had in our shared childhood bedroom, that I am pretty sure is from IKEA. In fact, I think more than 50% of the furniture we had was from there. I remember always staring into the lights when I couldn't fall asleep, and I always felt very comforted by them. My connection to these lights were very special, so I decided to model them on Blender just as I remembered them to be like.
 
 <b>Lego Planes</b>
-- Perhaps one of the more unique memories would be building lego planes with my siblings. The blocks did not come in a set of anything, but we built them however we wanted, and had an area on the balcony where we parked them, which we dubbed 'our airport'. This was one of the strongest memories that my siblings had from our childhood as well.
+- Perhaps one of the more unique memories would be building lego planes with my siblings. The blocks did not come in a set or anything and we built them however we wanted. There was an area of the balcony where we parked them, which we dubbed 'our airport'. This was one of the strongest memories that my siblings had from our childhood as well.
 
 <b>Fish Tank</b>
 - Although I did not intend to add this in the beginning, while consulting my family for ideas, my sister reminded me that we used to have a fish tank with many small neon tetra fish that we bought from a tiny neighbourhood aquarium. I later decided it would fit well in the centre of the main scene in the little 'room' I created in the tallest podium/tower.
 
 <b>Ball Pit</b>
-- I briefly mentioned earlier of my family's strong connection with Ikea, but other than going there to buy furniture, my siblings and I were always excited to play at the ball pit there. This probably made shopping easier for my parents.
+- I briefly mentioned earlier of my family's strong connection to Ikea, but other than going there to buy furniture, my siblings and I were always excited to play at the ball pit there. This probably made shopping easier for my parents.
 
 All the assets in my environment hold a unique memory from my childhood, and building it up takes me back to those simple times.
 
