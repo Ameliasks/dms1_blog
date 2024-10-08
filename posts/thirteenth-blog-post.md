@@ -25,7 +25,7 @@ We used Google maps to get the location and floor that Muji was on while we were
 ![photo 1](photos/45.png)
 *Rough greybox blocking*
 
-While creating this blocking, I realised that I needed to add more paths so that the environment would be more interactive, especially in the second area.
+While creating this blocking, I realised that I needed to add more paths so that the player will be able to go in between the podiums and naviagte the environment well.
 
 ![photo 1](photos/46.png)
 *Redoing greybox blocking with Unity ProBuilder*

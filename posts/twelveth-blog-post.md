@@ -53,7 +53,7 @@ Nostalgia is the main emotion I want to express in my project. I tried to recall
 
 There are 2 environments that I want to build for this project. As the player experiences the path I designed, I hope they will be able to feel the monumental shift of the transformation. 
 
-The first area is supposed to sigify my life as a single child. It is a small, simple indoor area with a sky roof. Beautiful but lonely, and I will make use of a monochromatic colour palette to make the space look dull. As the viewer walks around the 'exhibit' of items, they will encounter a door that will lead them to the second area.
+The first area is supposed to signify my life as a single child. It is a small, simple indoor area with a sky roof. Beautiful but lonely, and I will make use of a monochromatic colour palette to make the space look dull. As the viewer walks around the 'exhibit' of items, they will encounter a door that will lead them to the second area.
 
 The second area signifies my life after my siblings entered my life. The space is grand and much larger than the first area. The viewer will be immediately met with the view of a theme park, designed with all the different items and toys and I shared with my siblings. Items like the bed and wardrobe would be multiplied, adn new toys would be introduced. The colour palette is bold and colourful. This area is supposed to evoke a sense of wonder and excitement.
 
