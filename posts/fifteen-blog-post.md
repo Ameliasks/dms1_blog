@@ -17,16 +17,16 @@ allow_math: true
 
 ## Lighting and Textures
 
-[This](https://www.behance.net/gallery/14268675/CTC-Winter-Olympic-Package) is my lighting and materials reference for this project. I love how the lighting gives a warm glow to the scene, giving a fun yet peaceful atmosphere. I went onto HDRI Haven to source a HDRI that matched this reference.The reason why I have chosen a sunset HDRI for my scene is because I loved the warmth that it casts upon the scene, further highlighting the beautiful nostalgia of my childhood.
+[This](https://www.behance.net/gallery/14268675/CTC-Winter-Olympic-Package) is my lighting and materials reference for this project. I love how the lighting gives a warm glow to the scene, giving a fun yet peaceful atmosphere. I went onto HDRI Haven to source a HDRI that matched this reference. The sunset lighting is also suitable because it highlights the beautiful nostalgia of my childhood.
 
- I aim to use a three-point lighting for my scene as I think this will help the render of the scene look more beautiful and professional. Three-point lighting is a traditional method for illuminating a subject in a scene with light sources from three distinct positions. I will be using a yellow-tinted area light (keylight) to make the scene look warm, and use a less intense white directional light (fill light) adjacent to the keylight to make the assets pop, and finally across from them use a big point light (backlight) to help the main scene stand out from the background.
+I aim to use a three-point lighting for my scene as I think this will help the environment look more beautiful and professional. Three-point lighting is a traditional method for illuminating a subject in a scene with light sources from three distinct positions. I will be using a yellow-tinted area light (keylight) to make the scene look warm, and use a less intense white directional light (fill light) adjacent to the keylight to make the assets pop, and finally across from them use a big point light (backlight) to help the main scene stand out from the background.
 
 ![photo 1](photos/56.png)
 *Three-point lighting diagram*
 
 While trying to visualise my environment better, I found these references to be very helpful in conveying the emotional transformation through spatial design and colours. 
 
-![photo 1](photos/56.png)
+![photo 1](photos/73.png)
 *Key References*
 
 ## Sourcing and creating models
