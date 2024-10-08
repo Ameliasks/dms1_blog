@@ -24,6 +24,11 @@ allow_math: true
 ![photo 1](photos/56.png)
 *Three-point lighting diagram*
 
+While trying to visualise my environment better, I found these references to be very helpful in conveying the emotional transformation through spatial design and colours. 
+
+![photo 1](photos/56.png)
+*Key References*
+
 ## Sourcing and creating models
 
 I sourced some of my models from SketchFab and inserted them as instances into my scene with the plug-in function. But because I am going for a stylistic, semi-realistic approach, I was not able to find all my ideal models on SketchFab. Hence, I decided to model some of those that weren't too complicated on Blender and imported them into Unity as .obj files. This gave me good control over materials as well, since the model is fully customisable.
