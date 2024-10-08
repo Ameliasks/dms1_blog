@@ -39,7 +39,7 @@ I sourced some of my models from SketchFab and inserted them as instances into m
 ![photo 1](photos/55.png)
 *Editing texture map on Photoshop*
 
-For the assests I procured from SketchFab, I edited their texture maps on Photoshop so as to gain more control over the material finish of the models. I neede to do this because I needed the models to fit into the stylised look I was going for and for them to look harmonious next to each other and with the rest of the assets I modelled. I also did some simple modelling on Unity using ProBuilder. 
+For the assets I procured from SketchFab, I edited their texture maps on Photoshop so as to gain more control over the colour of the models. I neede to do this because I needed the models to fit into the stylised look I was going for and for them to look harmonious next to each other and with the rest of the assets I modelled. I also did some simple modelling on Unity using ProBuilder. 
 
 These models include:
 ![photo 1](photos/53.png)
@@ -47,6 +47,25 @@ These models include:
 *Modelling in Unity using ProBuilder*
 
 The stylisation of the assets also applies to the scale. All the objects are not realistically scaled to the perspective of the player or to each other. This is because I wanted to show the subjectivity of a child's perspective. As a child, we most probably perceive and remember certain things differently. For example, watching my DVDs on my TV was what I loved doing most as a young child, thus I scaled the DVDs and TV to be very large. In juxtaposition, the dining table is scaled to be very small, since I have little memory of dinners during my childhood, probably because my mind was preoccupied with the TV. *haha*  So although in real life the dining table should be much bigger than the TV, I made it much smaller instead.
+
+## Some significant stories ~
+
+I thought that this might be a good point to cover some the meanings and significance of some of the assets in my second area of the environment.
+
+<b>The moon and star lights</b>
+- These were the lights that we had in our shared childhood bedroom, that I am pretty sure is from IKEA. In fact, I think more than 50% of the furniture we had was from there. I remember always staring into the lights when I couldn't fall asleep, and I always felt very comforted by them. My connection to these lights were very special, so I decided to model them on Blender just as I remembered them to be like.
+
+<b>Lego Planes</b>
+- Perhaps one of the more unique memories would be building lego planes with my siblings. The blocks did not come in a set of anything, but we built them however we wanted, and had an area on the balcony where we parked them, which we dubbed 'our airport'. This was one of the strongest memories that my siblings had from our childhood as well.
+
+<b>Fish Tank</b>
+- Although I did not intend to add this in the beginning, while consulting my family for ideas, my sister reminded me that we used to have a fish tank with many small neon tetra fish that we bought from a tiny neighbourhood aquarium. I later decided it would fit well in the centre of the main scene in the little 'room' I created in the tallest podium/tower.
+
+<b>Ball Pit</b>
+- I briefly mentioned earlier of my family's strong connection with Ikea, but other than going there to buy furniture, my siblings and I were always excited to play at the ball pit there. This probably made shopping easier for my parents.
+
+All the assets in my environment hold a unique memory from my childhood, and building it up takes me back to those simple times.
+
 
 
 
