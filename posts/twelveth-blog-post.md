@@ -68,3 +68,4 @@ I was inspired by the lighting of the environments. Although the colours are not
 I was inspired by the different podiums in this scene, and it gave me the idea to categorise the objects from the list I prepared, by grouping them on the different podiums.
 
 For the sound design, I think the first area will go well will a soft and slightly sombre soundtrack, and the second area will go well with a bright and cheery soundtrack, akin to the soundtrack of Mario Kart and other games that appeal to young children.
+

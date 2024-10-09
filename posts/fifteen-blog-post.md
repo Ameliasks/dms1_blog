@@ -46,7 +46,7 @@ These models include:
 ![photo 1](photos/54.png)
 *Modelling in Unity using ProBuilder*
 
-The stylisation of the assets also applies to the scale. All the objects are not realistically scaled to the perspective of the player or to each other. This is because I wanted to show the subjectivity of a child's perspective. As a child, we most probably perceive and remember certain things differently. For example, watching my DVDs on my TV was what I loved doing most as a young child, thus I scaled the DVDs and TV to be very large. In juxtaposition, the dining table is scaled to be very small, since I have little memory of dinners during my childhood, probably because my mind was preoccupied with the TV. *haha*  So although in real life the dining table should be much bigger than the TV, I made it much smaller instead.
+The stylisation of the assets also applies to the scale. All the objects are not realistically scaled to the perspective of the player or to each other. This is because I wanted to show the subjectivity of a child's perspective. As a child, we most probably perceive and remember certain things differently. For example, watching my DVDs on my TV was what I loved doing most as a young child, thus I scaled the DVDs and TV to be very large. In juxtaposition, the dining table is scaled to be very small, since I have little memory of dinners during my childhood, probably because my mind was preoccupied with the TV. *haha*  So although in real life the dining table should be much bigger than the TV, I made it much smaller instead. Another reason for the disproportionate scaling is that I want the viewer to navigate the atypical environment with the curiousity and excitement of a child.
 
 ## Some significant stories ~
 
