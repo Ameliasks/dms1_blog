@@ -10,11 +10,27 @@ allow_math: true
 
 The key words I want to be associated with the aesthetic of my webpage, and that I think reflects the style of my works well are: <b>pop, imaginative and colourful.</b>
 
-The target audience I reckon would be prospective employers or anyone who is interested in viewing my work, and I think that they'll apprecaite a site that is visually interesting yet easy to navigate. The site should also help 
+The target audience I reckon would be prospective employers or anyone who is interested in viewing my work, and I think that they'll appreciate a site that is visually interesting yet easy to navigate. Features that they would probably look out would be an about page that would allow them to get to know me better, a page that explains my work and a page with my contact information.
+
+## Assignment 1 - Video Edit (Leaving The Nest)
+
+This video conveys the disorientation and overwhelming emotions I felt when I first moved to Melbourne, moving away from the comfort of my home and family for the first time. It explores the initial feelings of fear and isolation, to melancholy and sadness of being homesick, and finally the feelings of contentment and anticipation for a new begining.
+
+"And suddenly you know: It's time to start something new and trust the magic of new beginnings." is a quote by Meister Eckhart, a German Catholic theologian, philosopher and mystic. I included this quote because I think it reflects the message of the video perfectly.
+
+The emotional tone of the video goes through several shifts, from disorientation to melancholy to contentment. 
+
+## Assignment 2 - Graphic Icons (What's In a Home?)
+
+
+
+## Assignment 3 - Virtual Environment (A Place That Lives In My Memory)
+
+This environment was created based off my childhood memories, depicting my transition from a single child to an older sister when I was five and the second childhood I had gained through younger twin siblings. The first prototype of this project proved to be a great asset in helping me to identify things I needed to improve on through obtaining feedback from playtesters. 
 
 ## Draft Artist Statement 
 
-Hi there! I'm Amelia Siew, a visual designer and illustrator whose just begun a new journey as a freshman at RMIT University. I love producing creative work and am passionate about bringing ideas to life through engaging and communicative solutions. I greatly value opportunities to learn, grow and evolve and believe that experiences are crucial in shaping one's creative idenity and practice. I am excited to explore more of the expansive realms of digital video and web design moving forward.
+Hi there! I'm Amelia Siew, a visual designer and illustrator whose just begun a new journey studying Digital Media at RMIT University. I love producing creative work and am passionate about bringing ideas to life through engaging and communicative solutions. I greatly value opportunities to learn, grow and evolve and believe that experiences are crucial in shaping one's creative idenity and practice. I am excited to explore more of the expansive realms of digital video and web design moving forward.
 
 ## Inspirations
 
