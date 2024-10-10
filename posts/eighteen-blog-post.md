@@ -22,23 +22,26 @@ The emotional tone of the video goes through several shifts, from disorientation
 
 ## Assignment 2 - Graphic Icons (What's In A Home?)
 
-After deliberation, the theme I have chosen is 'home'. The platform would be a desktop website, a real estate website that will inform buyers what they should be looking for in a new home. The audience would be people in their mid twenties to thirties, interested in buying a new home and and looking up this website for information. I want to website to feel approachable and friendly to the prospective new home buyers.
+The concept I had come up with for the graphic icons project was a real estate website, where prospective home buyers could interact with the icons to view the factors they should consider before buying a home. The nine factors were as follows: community, appreciation value, security, neighbourhood, size, location, construction/ renovation potential, amenities and lifestyle. I wanted the to website to feel approachable and friendly to my target audience, which would be young new home buyers in their 20s and 30s.
 
-My 9 icons would be as follows: community, appreciation value, security, neighbourhood, size, location, construction/ renovation potential, amenities and lifestyle.
+After a round of rough thumbnail sketching, I picked the ones I believed best conveyed the individual factors and brought them in Illustrator to digitalize them. It was during this process that I faced the challenge of simplifying my designs. While they needed to be minimalistic, removing certain details could risk removing meaning from it. Another challenge was getting all the icons to look like they are part of the same family. Although using a colour palette helped marginally, but because each of the elements for icons were so different, I had to adjust the shapes and contrast of all the designs while comparing them with each other.  Through a lot of experimentation, I eventually got the icon designs to a point which has both clarity and consistency.
 
+The colour palette I had decided on was a complementary palette of pink and cyan. I chose this palatte because of its vibrancy and friendliness, that would appeal to my target audience. I made sure that I had a balance of shades to create contrast within the designs, like the dark maroon and the off-white colours that help provide accents amongst the main bold peach, pink and cyan shades. By keeping to a strict number of colours, the hue and value contrasts were united throughout the whole set of icons.
+
+I knew that for this project, the sound design played a supporting role to the visual design, and that I should take cues from from the designs when I am deciding on their corresponding sound effects, so that the audience can quickly pick up on the messgae each icon is trying to convey. I was also aware that they should be all of equal volume, like a family, and processed them as such before coding them into the html. 
 
 
 ## Assignment 3 - Virtual Environment (A Place That Lives In My Memory)
 
 This environment was based off my childhood memories, depicting my transition from a single child to an older sister when I was five and the second childhood I had gained through younger twin siblings. The first prototype of this project proved to be a great asset in helping me to identify things I needed to improve on through obtaining feedback from playtesters. 
 
+During the inital visualization of the project, I had planned out how I wanted my environment to look like from the front. But this quickly proved to be a huge oversight as I started to work inside Unity. As the viewer has the chance to view the environment in 360 perspective, I realised that I had neglected the sides and back of the terrain, and they were looking awkward and incomplete. I had to brainstorm and ideate again for these portions of the environment.
+
 In this project, the virtual camera is in the first-person perspective of the player. As the environment was about my childhood, I wanted the environment to feel huge, just like how I saw the world as a young child, and made the decision to make the objects disproportionately big, for the viewers to navigate it with the curiousity and excitement of a child.  The video editing project was also done from a first-person perspective as it was shot and edited by me, the world presented through my eyes. I believe that everyone has their own set of beliefs that shapes their perspective, so viewers might have different interpretations of my work. But that is what I find so fascinating and fun about creative work is that there is no definitive answers to what it means, but whatever it has allowed you to feel and the thoughts that it incited you to form is what is true.
 
 The sound design for this project was similar to that of the previous two projects in different ways. Similar to the video editing assignment, I made use of the soundtracks to convey emotional shifts as one journeys across the environment. And similar to the graphic icons assignment, I made use of sound effects to highlight interactions in my environment. 
 
 From the beginning, I knew that I want to achieve a pastel and stylised look for this environment. There was certainly a challenge in unifying all the assets, since all the downloadable assets from SketchFab were all created by different people. In order to resolve this, I edited the texture maps of all my assets in Photoshop and replaced them in the material inspector. It is through this process that I was able to change the colours, tones and values of the assets. I also modelled some of my own assets on Blender and ProBuilder, to give myself flexibility with the colours. I had created my own colour palette and a set of materials that I applied onto the assets so they look harmonious against each other. 
-
-
 
 ## Draft Artist Statement 
 
