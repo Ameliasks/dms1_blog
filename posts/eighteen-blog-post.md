@@ -60,3 +60,4 @@ Hi there! I'm Amelia Siew, a visual designer and illustrator whose just begun a 
 
 While making my second portfolio site earlier this year, I chanced upon [Angello Torres's](https://angellotorres.com/) webpage and was blown away. Although my portfolio ended up not looking anything like theirs, I really admire the bold play of colours and typography that somehow exists in harmony with each other and expresses the designer's unique style and creative persona. I aspire to create an experimentive and aesthetic look that's at least half as good as this one.
 
+[KUYA's](https://www.hellokuya.co/) site is modern, chic and well-organised, I wish to reference their fluid animations.
