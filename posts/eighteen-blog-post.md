@@ -14,11 +14,17 @@ The target audience I reckon would be prospective employers or anyone who is int
 
 ## Assignment 1 - Video Edit (Leaving The Nest)
 
-This video conveys the disorientation and overwhelming emotions I felt when I first moved to Melbourne, moving away from the comfort of my home and family for the first time. It explores the initial feelings of fear and isolation, to melancholy and sadness of being homesick, and finally the feelings of contentment and anticipation for a new begining.
+This video conveys the disorientation and overwhelming emotions I felt when I first moved to Melbourne, as I moved away from the comfort of my home and family for the first time. It explores the initial feelings of fear and isolation, to melancholy and sadness of being homesick, and finally the feelings of contentment and anticipation for a new begining.
 
-"And suddenly you know: It's time to start something new and trust the magic of new beginnings." is a quote by Meister Eckhart, a German Catholic theologian, philosopher and mystic. I included this quote because I think it reflects the message of the video perfectly.
+"And suddenly you know: It's time to start something new and trust the magic of new beginnings." is a quote by Meister Eckhart, a German Catholic theologian, philosopher and mystic. I added this quote into the video as I thought it perfectly encapsulated the message of the video.
 
-The emotional tone of the video goes through several shifts, from disorientation to melancholy to contentment. 
+The emotional tone of the video goes through several shifts, from disorientation to melancholy to contentment. To portray the disorientation of moving to a new city, I used footages of the bustling Melbourne CBD in day time, and used snappy cuts that got faster, to build intensity through pacing. As the video transitions into the melancholy of missing family back at home, I utilized footages of the city at night, with measured cuts of neon signs like seem lonely. And finally, when the video progresses to the contentment stage, I used footage of the city and the river at sunset and used slow transitions, the mix of warm and cool hues portray a beautiful and calm atmosphere that makes the video like a love letter to myself and to the place I call my new home. 
+
+For the sound design, I used a hollow and haunting soundtrack for the disorientative portion of the video, to exaggerate the feeling of being lost in an unfamilliar place. I also turned up the atmospheric sound from the footages to help the viewers feel immersed into the city, and layered more sound effects as the pacing of the video intensifies. For the melancholic part, the soundtrack I picked was gentle and somber, and subdued the atmospheric sound to give way to the phone call monologue. As the video shifts into the conclusion, to reflect contentment and hopefulness, the soundtrack is soft and uplifting and gently fades off at the end.
+
+The seagull in this video symbolisation of me, and I used it to draw attention to the 3 transformational points of the video: the long establishing shot of a wondering seagull, the shot of 2 seagulls that cues in the final soundtrack after a few beats of silence, and the long ending shot of it flying away. These shots represent being lost in a new city, making friends and the excitement for a new beginning respectively.
+
+//pacing, mise en scène, continuity, juxtaposition, symbolism, non-diegetic emotional framing, and sound design
 
 ## Assignment 2 - Graphic Icons (What's In A Home?)
 
@@ -30,6 +36,7 @@ The colour palette I had decided on was a complementary palette of pink and cyan
 
 I knew that for this project, the sound design played a supporting role to the visual design, and that I should take cues from from the designs when I am deciding on their corresponding sound effects, so that the audience can quickly pick up on the messgae each icon is trying to convey. I was also aware that they should be all of equal volume, like a family, and processed them as such before coding them into the html. 
 
+During the ideation stage for the project, I looked and referenced several icon vector designs I had found on the web. By being exposed to what industry standark icon design work looks like, and how well the designers were able to concise complicated ideas and concepts into minimalistic designs was certainly helpful when I was doing my thumbnail sketches. I started out by sketching the main component of the icon, and from there added supporting elements that I thought would help play up the message it was supposed to convey.
 
 ## Assignment 3 - Virtual Environment (A Place That Lives In My Memory)
 
