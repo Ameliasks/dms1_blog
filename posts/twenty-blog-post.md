@@ -12,3 +12,4 @@ allow_math: true
 *Wireframing in Figma*
 
 The site I chose to do a wireframe of is [this](https://www.hellokuya.co/) site that I mentioned in a previous blog post. After referencing the original site, I adjusted the sizes of the boxes to be more accurate, and added the details that I had overlooked. I also made the fixed elements a darker colour to differentiate them from the rest.
+
