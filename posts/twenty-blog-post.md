@@ -16,4 +16,9 @@ The site I chose to do a wireframe of is [this](https://www.hellokuya.co/) site 
 ![photo 1](photos/77.jpg)
 *Sketching layouts for my site*
 
-I browsed many different portfolio websites and sketched some of the layouts that I might want to try out in Figma. 
+I browsed many different portfolio websites and sketched some of the layouts that I might want to try out in Figma. I then tried them out with sample text and wireframe in the platform.
+
+![photo 1](photos/8.png)
+*Left: Wireframe, Right: Reference*
+
+Through this trial, I decided that I liked the first layout for the project descriptions best. But I liked the variety of type of the use of rounded rectangles of the second one, so I will try to implement that into the design.
