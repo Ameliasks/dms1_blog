@@ -32,3 +32,8 @@ Using the layout I had just created, I used it to compare different font combina
 *Palette*
 
 I decided on the yellow combination, but extended the palette so that I can use different colours for different segments of the website, so that the site would not look too monotonous.
+
+![photo 1](photos/81.png)
+*Guide*
+
+I set up a column guide in for my design with a 60px margin and 20px gutter. This column guide will help me keep the design consistent and it develops.
