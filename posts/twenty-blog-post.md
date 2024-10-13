@@ -16,4 +16,4 @@ The site I chose to do a wireframe of is [this](https://www.hellokuya.co/) site 
 ![photo 1](photos/77.jpg)
 *Sketching layouts for my site*
 
-I browsed many different portfolio website and sketched the layout I might want to try out in Figma. I liked these layouts because they are very clear and organised.
+I browsed many different portfolio websites and sketched some of the layouts that I might want to try out in Figma. 
