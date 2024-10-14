@@ -11,4 +11,4 @@ allow_math: true
 ![photo 1](photos/82.png)
 *Finding Column Grids*
 
-For this activity, I attempted to identify the column grids for[this](https://www.charleskeith.com/au?srsltid=AfmBOooa7l5ob_SVnYjdLcvhHauiGabReKgWjhZOQHXHDU9-eZBC-Al-) website. 
+For this activity, I attempted to identify the column grids for [this](https://www.charleskeith.com/au?srsltid=AfmBOooa7l5ob_SVnYjdLcvhHauiGabReKgWjhZOQHXHDU9-eZBC-Al-) website. 
