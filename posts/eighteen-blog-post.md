@@ -14,7 +14,7 @@ The target audience I reckon would be prospective employers or anyone who is int
 
 ## Assignment 1 - Video Edit (Leaving The Nest)
 
-This video conveys the disorientation and overwhelming emotions I felt when I first moved to Melbourne, as I moved away from the comfort of my home and family for the first time. It explores the initial feelings of fear and isolation, to melancholy and sadness of being homesick, and finally the feelings of contentment and anticipation for a new begining.
+This video conveys the disorientation and overwhelming emotions I felt when I first moved to Melbourne, as I moved away from the comfort of my home and family for the first time. It explores the initial feelings of fear and isolation, to melancholy and sadness of being homesick, and finally the feelings of contentment and anticipation for a new beginning.
 
 "And suddenly you know: It's time to start something new and trust the magic of new beginnings." is a quote by Meister Eckhart, a German Catholic theologian, philosopher and mystic. I added this quote into the video as I thought it perfectly encapsulated the message of the video.
 

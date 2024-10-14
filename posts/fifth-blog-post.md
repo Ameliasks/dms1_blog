@@ -18,7 +18,7 @@ For this activity, I decided to reinforce the creative intention of the group th
 
 
 ![photo 2](photos/14.png)
-*Aydrin, Spike, Fatta and I filming our clip, slender_man*
+*Aydin, Spike, Fatta and I filming our clip, slender_man*
 
 
 ![photo 2](photos/13.png)
