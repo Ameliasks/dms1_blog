@@ -37,3 +37,11 @@ I decided on the yellow combination, but extended the palette so that I can use 
 *Guide*
 
 I set up a column guide in for my design with a 60px margin and 20px gutter. This column guide will help me keep the design consistent and it develops.
+
+## References
+![photo 1](photos/84.png)
+*Guide*
+![photo 1](photos/85.png)
+*Guide*
+![photo 1](photos/86.png)
+*Guide*
