@@ -12,7 +12,7 @@ I knew that I wanted to insert some stroke vector graphics as a visual element t
 
 I also went through the design to make sure there were no text widows. (In typesetting, widows and orphans are single lines of text from a paragraph that dangle at either the beginning or end of a block of text.) 
 
-![photo 1](91.png)
+![photo 1](photos/91.png)
 *Left: Original, Right: Edited to remove widow* 
 
 
@@ -20,7 +20,7 @@ I also went through the design to make sure there were no text widows. (In types
 
 Using [this](https://youtu.be/pIF_zIDaZ94?si=bO1yMGRKNl2lWRLr) tutorial, I learnt how to do 'scroll' animations in Figma prototype. Due to Figma not supporting actual scroll animations, how this imitation effect is achieved is through making each section an indivdual component, then through making variants of these components, adding a mouse over interaction and applying the smart animation effect. I did face a fair share of issues when i first started the animations, and was very worried I could not complete all the animations I had in mind on time. Thankfully, I managed to troubleshoot these issues and becae more meticulous in executing the steps so that the animation would work smoothly. I did all the animations on a duplicate of the original frame, so that I still could constantly reference the design and layout while creating the animations in a separate frame. Being able to compare them side by side was also extremely useful for spotting inaccuracies.
 
-![photo 1](87.png)
+![photo 1](photos/87.png)
 *Final Frame with Components*
 
 ## Creating Mobile Layout
@@ -29,9 +29,9 @@ I copied the original design without animations into a separate page in the same
 
 To start, I knew that the font sizes had to be modified, as the current size would have been too huge for a small phone screen. I also modified the margin and gutter of the column guide to one better suited for mobile layout. I did rough research on the ideals specs for these parameters.
 
-![photo 1](88.png)
+![photo 1](photos/88.png)
 *Ideal Margin Size*
-![photo 1](89.png)
+![photo 1](photos/89.png)
 *Ideal Font Body Size*
 
 Once I decided on the new font sizes, I made new text styles so that I would be able to efficiently change all the text sizes if need be.
@@ -46,7 +46,7 @@ After completing the animations and mobile layout, I started to think about what
 
 So I thought about how to display the links, I decided to utilise the pixel game look and create a button component that would sit on top of the hero images of each project and animate it in sequence with each image. However, since Figma also does not support embedding links onto objects, I had to create an invisible text layer with the site link attached to it, so as to fake the button being able to direct to the link on click.
 
-![photo 1](92.png)
+![photo 1](photos/92.png)
 *Button Component Implemented*
 
 My landing page is surprisingly, what I completed last. I think I was slightly intimidated to complete it, since it is most probably the most important part of the whole site, with the duty to capture attention and leave a strong first impression. I worked with the placeholder thus far, as I was not sure what images I wanted to use for the web windows. However, I knew I wanted the images to look intriguing and colourful.
