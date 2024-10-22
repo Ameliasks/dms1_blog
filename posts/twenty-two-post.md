@@ -42,7 +42,7 @@ When the scale of the photos were reduced to fit the new aspect ratio, the round
 
 ## Finishing Touches
 
-After completing the animations and mobile layout, I started to think about what other details were required for the site, such as the links to the videos for 'Leaving The Nest' and 'A Place That Lives In My Memory' and the deno site for 'What's In A Home'. I needed to find a way to include these links because Figma in its free version, does not support video embedding or external site embedding.
+After completing the animations and mobile layout, I started to think about what other details were required for the site, and how to further develop the webcore style I was aiming for. One such detail was adding the links to the videos for 'Leaving The Nest' and 'A Place That Lives In My Memory' and the deno site for 'What's In A Home'. I needed to find a way to include these links because Figma in its free version, does not support video embedding or external site embedding.
 
 So I thought about how to display the links, I decided to utilise the pixel game look and create a button component that would sit on top of the hero images of each project and animate it in sequence with each image. However, since Figma also does not support embedding links onto objects, I had to create an invisible text layer with the site link attached to it, so as to fake the button being able to direct to the link on click.
 
@@ -53,8 +53,8 @@ My landing page is surprisingly, what I completed last. I think I was slightly i
 
 In the end, I decided to manipulate images of the 3 projects featured on the site, save for the centre image which I used it as it was. The left image is a still render captured from the Unity project, but I applied a mosaic smart filter on it on Photoshop, to make it look extremely pixelised. For the bottom image, I took one of the icon illustrations and removed the background, imported it into Figma and duplicated it to create an abstract, glitch effect. And finally for the top most image, I screenshotted from the first assignment the shot of the school, and in Photoshop, used a liquify smart effect, hue and saturation layer and curves layer to create a trippy look.
 
-These were my inspirations for the landing page
-
+![photo 1](photos/93.png)
+*Inspirations for the landing page* 
 
 I had many ideas from these inspirations, but I realised after trying to pile on layers, that going too complex and maximalist would not really complement the rest of the site. So I settled for something a little more simplistic with just enough detail in the end.
 
