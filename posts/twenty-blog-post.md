@@ -21,7 +21,15 @@ I browsed many different portfolio websites and sketched some of the layouts tha
 ![photo 1](photos/78.png)
 *Left: Wireframe, Right: Reference*
 
-Through this trial, I decided that I liked the first layout for the project descriptions best. But I liked the variety of type and the use of rounded rectangles of the second one, so I will try to implement that into the design.
+Through this trial, I decided that I liked the first layout for the project descriptions best. But I liked the variety of type and the use of rounded rectangles of the second one, so I will try to implement that into the design. I also wireframed some variations for the about/landing page as shown below.
+
+![photo 1](photos/100.png)
+*About/Landing Page Wireframes*
+
+After consulting my peers, and doing some personal deliberation, I decided to merge the bottom two designs into a new design. The comments were that those two designs brought out the bold energy of the background colour and were the most visually interesting. I liked the huge pixel typography title of the bottom left design, and the way of laying out personal facts of the second, as breaking the text up is more pleasant for being to read and helps to retain better attention. Shown below is the new developed design.
+
+![photo 1](photos/101.png)
+*New Landing Page with Placeholder Image*
 
 ![photo 1](photos/79.png)
 *Font Combinations and Colours*
