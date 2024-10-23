@@ -63,7 +63,7 @@ So I thought about how to display the links, and ultimately decided to utilise t
 
 My landing page is surprisingly, what I completed last. I think I was slightly intimidated to complete it, since it is most probably the most important part of the whole site, with the duty of capturing attention and leaving a strong first impression. I worked with the placeholder thus far, as I was not sure what images I wanted to use for the web windows. However, I knew I wanted the images to look intriguing and colourful.
 
-For the photos for 'Leaving The Nest', because the footage was shot on my phone and then exported to video, the quality of the stills I screencaptured were not exactly the best. Thus, I added an unsharp mask and smart sharpen smart effect to all the images on Photoshop, before inserting them into Figma. Then in Figma, I used the basic correction edting options offered in the fill panel.
+For the photos for 'Leaving The Nest', because the footage was shot on my phone and then exported to video, the quality of the stills I screencaptured were not exactly the best. Thus, I added an unsharp mask and smart sharpen smart effect to all the images on Photoshop to improve the photo quality, before inserting them into Figma. I also added a layer to give the photos a slight vignette, which I thought would boost the visual quality. Then in Figma, I used the basic correction editing options offered in the fill panel to slightly enhance these images.
 
 ![photo 1](photos/102.png)
 *Editing In Photoshop*
@@ -75,7 +75,7 @@ In the end, I decided to manipulate images of the 3 projects featured on the sit
 
 I went to source for references for the webcore, pixelised effect i wanted to emulate. I had many ideas from these inspirations, but I realised after trying to pile on layers, that going too complex and maximalist would not really complement the rest of the site. So I settled for something a little more simplistic with just enough detail in the end.
 
-In the desktop version, I also moved down the navigation bar. to below the landing page. This was because as I was observing the page once I had replaced the placeholders with the final images, I found it distracting the design looked like it was being cropped off at the bottom and it looked distracting. Once I swapped the positions of the two, I liked the design a lot better as it helped to give more focus to the landing animations.
+In the desktop version, I also moved down the navigation bar to below the landing page. This was because as I was observing the page once I had replaced the placeholders with the final images, I found it distracting the design looked like it was being cropped off at the bottom. Once I swapped the positions of the two, I liked the design a lot better as it helped to give more focus to the landing animations.
 
 ![photo 1](photos/95.png)
 *Left: Orignal, Right: After Swap* 
@@ -85,15 +85,15 @@ To further exaggerate the 8-bit, pixelised game look of the site, I added small 
 
 ## General Reflection
 
-I have had experience making profolio sites, having just made my second one earlier on a ReadyMag this year before I enrolled into this course. As such, I took this assignment as an opportunity to further push myself and challenge a style I have not really explored, but still quintessentially me.
+I have had experience making profolio sites, having just made my second one earlier on a ReadyMag this year before I enrolled into this course. As such, I took this assignment as an opportunity to further push myself and challenge a style I have not really explored, but would still be quintessentially me.
 
 I have had internship experience at a UI/UX company before, although not in the capacity of a web designer. But being in that department, being surrounded by UI/UX professionals that seemed to really enjoy what they do and were such warm and nurturing people, was what incited the thought of dipping my toes into this industry for the first time. It was one of the reasons why I had chosen to pursue this course, and why I am considering taking web design up as a specialisation going forward. 
 
-What I enjoy about web design is how versatile it is. For a long time, I had always looked at corporate website and thinking that they were functional but boring. But as I continue to source works online for inspiration, I am exposed to all that web design can be, its ability to deliver intention in an experiece. In particular, I am especially fascinated with portfolio sites as they are often very creative and experimental.
+What I enjoy about web design is how versatile it is. For a long time, I had always looked at corporate website and thinking that they were functional but boring. But as I continue to source works online for inspiration, I am exposed to all that web design can be, and its ability to deliver intention in an experiece. In particular, I am especially fascinated with portfolio sites as they are often very creative and experimental.
 
-As I build more experience, building sites seem to get easier for me as I have gotten the hang of the workflows and techniques. Although I did still encounter some challenges, it was great to have this opportunity to reflect on the works I had created for Digital Media Studio 1 this semester, and design it into an experience for others to gain insight into my process and thoughts. 
+As I continue to gain more experience, building sites seem to get easier for me as I have gotten the hang of the workflows and techniques. Although I did still encounter some challenges, it was great to have this opportunity to reflect on the works I had created for Digital Media Studio 1 this semester, and design it into an experience for others to gain insight into my process and thoughts. 
 
-Thank you Mx Thomas for an amazing semester!
+Thank you for an amazing semester!
 
 
 
