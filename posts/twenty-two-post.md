@@ -56,15 +56,22 @@ In the end, I decided to manipulate images of the 3 projects featured on the sit
 ![photo 1](photos/93.png)
 *Inspirations for the landing page* 
 
-I had many ideas from these inspirations, but I realised after trying to pile on layers, that going too complex and maximalist would not really complement the rest of the site. So I settled for something a little more simplistic with just enough detail in the end.
+I went to source for references for the webcore, pixelised effect i wanted to emulate. I had many ideas from these inspirations, but I realised after trying to pile on layers, that going too complex and maximalist would not really complement the rest of the site. So I settled for something a little more simplistic with just enough detail in the end.
 
 To further exaggerate the 8-bit, pixelised game look of the site, I added small boxes randomly across the about page and at the section transitions in between each project description. I thought that this would help provide a little more visual interest to the site, and not make the colour sections look as stiff.
 
 
 ## General Reflection
 
-I have had experience making profolio sites, having just made my second one earlier this year before I enrolled into this course. As such, I took this assignment as an opportunity to further push myself and challenge a style I have not really explored, but still quintessentially me.
+I have had experience making profolio sites, having just made my second one earlier on a ReadyMag this year before I enrolled into this course. As such, I took this assignment as an opportunity to further push myself and challenge a style I have not really explored, but still quintessentially me.
 
+I have had internship experience at a UI/UX company before, although not in the capacity of a web designer. But being in that department, being surrounded by UI/UX professionals that seemed to really enjoy what they do and were such warm and nurturing people, was what incited the thought of dipping my toes into this industry for the first time. It was one of the reasons why I had chosen to pursue this course, and why I am considering taking web design up as a specialisation going forward. 
+
+What I enjoy about web design is how versatile it is. For a long time, I had always looked at corporate website and thinking that they were functional but boring. But as I continue to source works online for inspiration, I am exposed to all that web design can be, its ability to deliver intention in an experiece. In particular, I am especially fascinated with portfolio sites as they are often very creative and experimental.
+
+As I build more experience, building sites seem to get easier for me as I have gotten the hang of the workflows and techniques. Although I did still encounter some challenges, it was great to have this opportunity to reflect on the works I had created for Digital Media Studio 1 this semester, and design it into an experience for others to gain insight into my process and thoughts. 
+
+Thank you Mx Thomas for this semester!
 
 
 
