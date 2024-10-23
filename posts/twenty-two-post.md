@@ -36,6 +36,9 @@ To start, I knew that the font sizes had to be modified, as the current size wou
 
 Once I decided on the new font sizes, I made new text styles so that I would be able to efficiently change all the text sizes if need be.
 
+![photo 1](photos/90.png)
+*New Text Style*
+
 For the mobile layout, I chose to work with the specs of iphone16 pro.
 
 When the scale of the photos were reduced to fit the new aspect ratio, the rounded rectangles that I had in my design had to be adjusted as well, as the strokes became too thick and and the angle too rounded. But this was easily rectified.
