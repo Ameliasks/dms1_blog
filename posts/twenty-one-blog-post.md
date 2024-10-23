@@ -25,3 +25,11 @@ At this stage, I have completed the foundational design for the website. So the 
 ![photo 1](photos/97.png)
 *Progress with Column Grids*
 
+## Accessibility Check
+
+I tested the colour contrast using a contrast checker plugin in Figma. Of all the colour combinations, I thought the navy on pink looked the most dangerous, but thankfully it still passed the test!
+
+![photo 1](photos/98.png)
+![photo 1](photos/99.png)
+*Testing*
+

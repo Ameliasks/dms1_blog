@@ -38,3 +38,4 @@ I decided on the yellow combination, but extended the palette so that I can use 
 
 I set up a column guide in for my design with a 60px margin and 20px gutter. This column guide will help me keep the design consistent as it develops.
 
+The fonts that I have chosen for the project are Silkscreen (decorative font), Belgrano (subheadings) and Karla (body text). I adjusted the kerning and leading of the typography to enhance legibility.
