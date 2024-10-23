@@ -13,14 +13,14 @@ allow_math: true
 
 ## Typography
 
-As I mentioned in my previous blog post, I really love the bold play of typography of [Angello Torres's](https://angellotorres.com/) website, and played around with a few different fonts and the font hierachy, which I will further shortlist later on. As font combinations can be a little precarious when not executed properly, I will have to make sure that the fonts I ended up choosing will complement each other well.
+As I mentioned in my previous blog post, I really love the bold play of typography of [Angello Torres's](https://angellotorres.com/) website, and played around with a few different fonts and the font hierachy, which I will further shortlist later on. As font combinations can be a little precarious when not executed properly, I will have to make sure that the fonts I end up choosing will complement each other well.
 
 ## Colour Palette
 
 ![photo 1](photos/76.png)
 *Trying out colour palettes*
 
-I found a few colour palette references on Pinterest that originated from different forms of design, which have the pop, imaginative and colourful vibe that I am going for.
+I found a few colour palette references on Pinterest that originated from different forms of design, which have the pop, imaginative and colourful vibe that I am going for. I ended up choosing the 4th colour palette as I thought it was the most bold and experimentative, and when paired with the pixel font and the serif font, it gives off a retro game look. That is not what I was going for from the beginning, but i thought it could be a good direction to go with as it suited the key words I have chosen.
 
 ## Consolidated Text for Website
 
