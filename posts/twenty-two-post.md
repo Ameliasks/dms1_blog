@@ -43,6 +43,14 @@ For the mobile layout, I chose to work with the specs of iphone16 pro.
 
 When the scale of the photos were reduced to fit the new aspect ratio, the rounded rectangles that I had in my design had to be adjusted as well, as the strokes became too thick and and the angle too rounded. But this was easily rectified.
 
+![photo 1](photos/94.png)
+*Mobile Layout and Desktop Layout Side By Side* 
+
+I also went to check the distance between the different elements and made sure it was consistent throughout the project. By holding down the <code> option key </code> and hovering over the elements, Figma would display the distance in pixels, and this was how I conducted the check and made adjustments accordingly.
+
+![photo 1](photos/96.png)
+*Example of CHecking Distance*
+
 ## Finishing Touches
 
 After completing the animations and mobile layout, I started to think about what other details were required for the site, and how to further develop the webcore style I was aiming for. One such detail was adding the links to the videos for 'Leaving The Nest' and 'A Place That Lives In My Memory' and the deno site for 'What's In A Home'. I needed to find a way to include these links because Figma in its free version, does not support video embedding or external site embedding.
@@ -54,12 +62,20 @@ So I thought about how to display the links, I decided to utilise the pixel game
 
 My landing page is surprisingly, what I completed last. I think I was slightly intimidated to complete it, since it is most probably the most important part of the whole site, with the duty to capture attention and leave a strong first impression. I worked with the placeholder thus far, as I was not sure what images I wanted to use for the web windows. However, I knew I wanted the images to look intriguing and colourful.
 
+
+
+
 In the end, I decided to manipulate images of the 3 projects featured on the site, save for the centre image which I used it as it was. The left image is a still render captured from the Unity project, but I applied a mosaic smart filter on it on Photoshop, to make it look extremely pixelised. For the bottom image, I took one of the icon illustrations and removed the background, imported it into Figma and duplicated it to create an abstract, glitch effect. And finally for the top most image, I screenshotted from the first assignment the shot of the school, and in Photoshop, used a liquify smart effect, hue and saturation layer and curves layer to create a trippy look.
 
 ![photo 1](photos/93.png)
 *Inspirations for the landing page* 
 
 I went to source for references for the webcore, pixelised effect i wanted to emulate. I had many ideas from these inspirations, but I realised after trying to pile on layers, that going too complex and maximalist would not really complement the rest of the site. So I settled for something a little more simplistic with just enough detail in the end.
+
+In the desktop version, I also moved down the navigation bar. to below the landing page. This was because as I was observing the page once I had replaced the placeholders with the final images, I found it distracting the design looked like it was being cropped off at the bottom and it looked distracting. Once I swapped the positions of the two, I liked the design a lot better as it helped to give more focus to the landing animations.
+
+![photo 1](photos/95.png)
+*Left: Orignal, Right: After Swap* 
 
 To further exaggerate the 8-bit, pixelised game look of the site, I added small boxes randomly across the about page and at the section transitions in between each project description. I thought that this would help provide a little more visual interest to the site, and not make the colour sections look as stiff.
 
