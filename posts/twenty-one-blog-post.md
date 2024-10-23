@@ -18,3 +18,10 @@ I spoke about creating my column grids in the previous blog post, but I still ha
 ![photo 1](photos/83.png)
 *Left: First Layout, Right: Corrected Layout*
 
+# :page_with_curl: Assignment 4 Progress
+
+At this stage, I have completed the foundational design for the website. So the layout, typography, images are all pretty much confirmed at this stage. As I go into working on the details and the mobile layout they might be tweaked here and there but I am pleased with how it is going thus far.
+
+![photo 1](photos/97.png)
+*Progress with Column Grids*
+

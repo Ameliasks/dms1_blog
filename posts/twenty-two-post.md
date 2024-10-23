@@ -49,7 +49,7 @@ When the scale of the photos were reduced to fit the new aspect ratio, the round
 I also went to check the distance between the different elements and made sure it was consistent throughout the project. By holding down the <code> option key </code> and hovering over the elements, Figma would display the distance in pixels, and this was how I conducted the check and made adjustments accordingly.
 
 ![photo 1](photos/96.png)
-*Example of CHecking Distance*
+*Example of Checking Distance*
 
 ## Finishing Touches
 
@@ -90,7 +90,7 @@ What I enjoy about web design is how versatile it is. For a long time, I had alw
 
 As I build more experience, building sites seem to get easier for me as I have gotten the hang of the workflows and techniques. Although I did still encounter some challenges, it was great to have this opportunity to reflect on the works I had created for Digital Media Studio 1 this semester, and design it into an experience for others to gain insight into my process and thoughts. 
 
-Thank you Mx Thomas for this semester!
+Thank you Mx Thomas for an amazing semester!
 
 
 
