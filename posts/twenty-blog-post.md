@@ -21,7 +21,7 @@ I browsed many different portfolio websites and sketched some of the layouts tha
 ![photo 1](photos/78.png)
 *Left: Wireframe, Right: Reference*
 
-Through this trial, I decided that I liked the first layout for the project descriptions best. But I liked the variety of type of the use of rounded rectangles of the second one, so I will try to implement that into the design.
+Through this trial, I decided that I liked the first layout for the project descriptions best. But I liked the variety of type and the use of rounded rectangles of the second one, so I will try to implement that into the design.
 
 ![photo 1](photos/79.png)
 *Font Combinations and Colours*
@@ -36,12 +36,5 @@ I decided on the yellow combination, but extended the palette so that I can use 
 ![photo 1](photos/81.png)
 *Guide*
 
-I set up a column guide in for my design with a 60px margin and 20px gutter. This column guide will help me keep the design consistent and it develops.
+I set up a column guide in for my design with a 60px margin and 20px gutter. This column guide will help me keep the design consistent as it develops.
 
-## References
-![photo 1](photos/84.png)
-*Guide*
-![photo 1](photos/85.png)
-*Guide*
-![photo 1](photos/86.png)
-*Guide*
