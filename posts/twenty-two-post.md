@@ -78,7 +78,7 @@ I went to source for references for the webcore, pixelised effect i wanted to em
 In the desktop version, I also moved down the navigation bar to below the landing page. This was because as I was observing the page once I had replaced the placeholders with the final images, I found it distracting the design looked like it was being cropped off at the bottom. Once I swapped the positions of the two, I liked the design a lot better as it helped to give more focus to the landing animations.
 
 ![photo 1](photos/95.png)
-*Left: Orignal, Right: After Swap* 
+*Left: Original Layout, Right: After Swap* 
 
 To further exaggerate the 8-bit, pixelised game look of the site, I added small boxes randomly across the about page and at the section transitions in between each project description. I thought that this would help provide a little more visual interest to the site, and not make the colour sections look as stiff.
 
